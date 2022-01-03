@@ -33,14 +33,14 @@ javascript = """
             <script>
                 $(document).ready(function() {
                 $('#results-table').DataTable( {
-                    "pageLength": 200,
+                    "pageLength": 100,
                     "lengthMenu": [ 10, 25, 50, 75, 100, 200 ],
                     "order": [[ 1, "desc" ]],
                     rowCallback: function (row, data) {
-                      if (data[2] === 'failure') {
+                      if (data[3] === 'failure') {
                         $(row).addClass('Failure');
                       }
-                      if (data[2] === 'success') {
+                      if (data[3] === 'success') {
                         $(row).addClass('Success');
                       }                      
                     }                    
@@ -54,6 +54,7 @@ table_head = """
             <table id="results-table" class="table table-striped table-bordered" style="width:100%">
             <thead>
                 <tr>
+                    <th>Seq</th>
                     <th>Job ID</th>
                     <th>Timestamp</th>
                     <th>Result</th>

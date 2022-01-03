@@ -5,7 +5,7 @@ import requests as requests
 from lxml import etree
 
 from causes import causes_list
-from utilities import javascript, table_head, style, links
+from templates import javascript, table_head, style, links
 
 TESTS_PREFIX = "https://gcsweb-ci.apps.ci.l2s4.p1.openshiftapps.com/gcs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-"
 
@@ -74,6 +74,7 @@ def collect_data(test_jobs):
 
 def render_html(test_jobs):
     for lane in test_jobs:
+        seq = 1
         html = f"""
         <html>
             <head>
@@ -91,12 +92,14 @@ def render_html(test_jobs):
         for tj in test_jobs[lane]:
             html += f"""
             <tr>
+                <td>{str(seq)}</td>
                 <td><a href={tj["job_url"]}>{tj["job_id"]}</a></td>
                 <td>{tj["timestamp"]}</td>
                 <td>{tj["result"]}</td>
                 <td>{tj["reason"]}</td>
             </tr>
             """
+            seq += 1
         html += f"""
             </tbody>
             </table>
