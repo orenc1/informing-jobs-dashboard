@@ -1839,5 +1839,12 @@
         "timestamp": "2021-09-22T19:00:30Z",
         "result": "success",
         "reason": ""
+    },
+    {
+        "job_id": "1477897381952360448",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.7-e2e-azure-deploy-cnv/1477897381952360448",
+        "timestamp": "2022-01-03T06:59:28Z",
+        "result": "success",
+        "reason": ""
     }
 ]
