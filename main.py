@@ -125,7 +125,13 @@ def get_failure_reason(test_name, job_id):
     return "Undetermined"
 
 
+def create_dirs_if_not_exists(dirs):
+    for dir in dirs:
+        if not os.path.exists(dir):
+            os.makedirs(dir)
+
 def main():
+    create_dirs_if_not_exists(["results", "web"])
     test_jobs = {}
     load_data(test_jobs)
     collect_data(test_jobs)

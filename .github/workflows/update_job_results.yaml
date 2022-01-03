@@ -1,0 +1,24 @@
+name: update-jobs-results
+on:
+  schedule:
+    - cron:  '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  informing-jobs-results-update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the latest code
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.BOT_TOKEN }}
+      - name: collect, analyze and render informing jobs results
+        run: |
+          python main.py
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v7
+        with:
+          author_name: Oren Cohen
+          author_email: ocohen@redhat.com
+          message: 'updated results'
+          add: 'results/* web/*'
