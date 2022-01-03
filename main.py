@@ -65,7 +65,7 @@ def collect_data(test_jobs):
                 }
                 if ij not in test_jobs:
                     test_jobs[ij] = []
-                test_jobs[ij].append(tj)
+                test_jobs[ij].insert(0, tj)
                 i += 1
                 print (f'{str(i)}: {ij} from {tj["timestamp"]} added. Result: {tj["result"]}')
         with open(f'results/{ij}.json', 'w', encoding='utf-8') as fh:
