@@ -46,6 +46,8 @@ def collect_data(test_jobs):
                 prowjob = json.loads(prowjob_response)
                 timestamp = prowjob["status"]["startTime"]
                 test_result = prowjob["status"]["state"]
+                if test_result == "pending":
+                    continue
                 job_url = prowjob["status"]["url"]
 
                 if test_result == "failure":

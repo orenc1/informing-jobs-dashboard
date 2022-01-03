@@ -35,7 +35,7 @@ javascript = """
                 $('#results-table').DataTable( {
                     "pageLength": 100,
                     "lengthMenu": [ 10, 25, 50, 75, 100, 200 ],
-                    "order": [[ 1, "desc" ]],
+                    "order": [[ 2, "desc" ]],
                     rowCallback: function (row, data) {
                       if (data[3] === 'failure') {
                         $(row).addClass('Failure');
