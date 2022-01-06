@@ -1,0 +1,2333 @@
+[
+    {
+        "job_id": "1445013380384428032",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445013380384428032",
+        "timestamp": "2021-10-04T13:10:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445062900728205312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445062900728205312",
+        "timestamp": "2021-10-04T16:26:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445140848969781248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445140848969781248",
+        "timestamp": "2021-10-04T21:36:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445261125191995392",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445261125191995392",
+        "timestamp": "2021-10-05T05:34:38Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445314390705311744",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445314390705311744",
+        "timestamp": "2021-10-05T09:06:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445362582457159680",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445362582457159680",
+        "timestamp": "2021-10-05T12:17:47Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1445409005353570304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445409005353570304",
+        "timestamp": "2021-10-05T15:22:15Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1445522490964054016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445522490964054016",
+        "timestamp": "2021-10-05T22:53:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445575939038646272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445575939038646272",
+        "timestamp": "2021-10-06T02:25:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445684741721296896",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445684741721296896",
+        "timestamp": "2021-10-06T09:37:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445865944277585920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445865944277585920",
+        "timestamp": "2021-10-06T21:37:58Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1445890090587918336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445890090587918336",
+        "timestamp": "2021-10-06T23:13:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1445939932878082048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445939932878082048",
+        "timestamp": "2021-10-07T02:31:58Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1445996808407879680",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1445996808407879680",
+        "timestamp": "2021-10-07T06:17:58Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1446052095479255040",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446052095479255040",
+        "timestamp": "2021-10-07T09:57:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446115030071250944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446115030071250944",
+        "timestamp": "2021-10-07T14:07:44Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446172435878514688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446172435878514688",
+        "timestamp": "2021-10-07T17:55:51Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446226049896550400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446226049896550400",
+        "timestamp": "2021-10-07T21:28:50Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446288959217864704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446288959217864704",
+        "timestamp": "2021-10-08T01:38:52Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1446344165683105792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446344165683105792",
+        "timestamp": "2021-10-08T05:18:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446402014488563712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446402014488563712",
+        "timestamp": "2021-10-08T09:08:07Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446488805434462208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446488805434462208",
+        "timestamp": "2021-10-08T14:52:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446595846941446144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446595846941446144",
+        "timestamp": "2021-10-08T21:58:20Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446663824810708992",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446663824810708992",
+        "timestamp": "2021-10-09T02:28:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446721717165625344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446721717165625344",
+        "timestamp": "2021-10-09T06:18:30Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446777742094766080",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446777742094766080",
+        "timestamp": "2021-10-09T10:01:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446959127782756352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446959127782756352",
+        "timestamp": "2021-10-09T22:01:53Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1446959394095894528",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1446959394095894528",
+        "timestamp": "2021-10-09T22:02:57Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1447068924729364480",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447068924729364480",
+        "timestamp": "2021-10-10T05:18:08Z",
+        "result": "failure",
+        "reason": "[CNV] deployment failure"
+    },
+    {
+        "job_id": "1447119263981637632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447119263981637632",
+        "timestamp": "2021-10-10T08:38:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447169477509648384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447169477509648384",
+        "timestamp": "2021-10-10T11:57:44Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447224952909467648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447224952909467648",
+        "timestamp": "2021-10-10T15:38:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447279872396234752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447279872396234752",
+        "timestamp": "2021-10-10T19:16:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447461079281045504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447461079281045504",
+        "timestamp": "2021-10-11T07:16:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447489171806490624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447489171806490624",
+        "timestamp": "2021-10-11T09:08:06Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1447548347748454400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447548347748454400",
+        "timestamp": "2021-10-11T13:03:13Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447604700248543232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447604700248543232",
+        "timestamp": "2021-10-11T16:47:10Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447662488312090624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447662488312090624",
+        "timestamp": "2021-10-11T20:36:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1447721242894274560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447721242894274560",
+        "timestamp": "2021-10-12T00:30:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447798391793782784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447798391793782784",
+        "timestamp": "2021-10-12T05:36:49Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447874279340249088",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447874279340249088",
+        "timestamp": "2021-10-12T10:38:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1447944765793374208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1447944765793374208",
+        "timestamp": "2021-10-12T15:18:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448026174960701440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448026174960701440",
+        "timestamp": "2021-10-12T20:41:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448079680279154688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448079680279154688",
+        "timestamp": "2021-10-13T00:14:32Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448147152508293120",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448147152508293120",
+        "timestamp": "2021-10-13T04:42:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448200095324442624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448200095324442624",
+        "timestamp": "2021-10-13T08:13:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1448253324812881920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448253324812881920",
+        "timestamp": "2021-10-13T11:44:33Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448314489433755648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448314489433755648",
+        "timestamp": "2021-10-13T15:47:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448373295983366144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448373295983366144",
+        "timestamp": "2021-10-13T19:41:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448433700306948096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448433700306948096",
+        "timestamp": "2021-10-13T23:41:19Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448476990838411264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448476990838411264",
+        "timestamp": "2021-10-14T02:33:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448537904392441856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448537904392441856",
+        "timestamp": "2021-10-14T06:35:23Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1448595287512715264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448595287512715264",
+        "timestamp": "2021-10-14T10:23:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448671168880971776",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448671168880971776",
+        "timestamp": "2021-10-14T15:24:49Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448728978922672128",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448728978922672128",
+        "timestamp": "2021-10-14T19:14:38Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448786676624134144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448786676624134144",
+        "timestamp": "2021-10-14T23:03:55Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1448845333273513984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448845333273513984",
+        "timestamp": "2021-10-15T02:56:58Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1448956290557546496",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1448956290557546496",
+        "timestamp": "2021-10-15T10:17:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449017443086241792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449017443086241792",
+        "timestamp": "2021-10-15T14:20:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449070123284434944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449070123284434944",
+        "timestamp": "2021-10-15T17:50:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449251354554929152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449251354554929152",
+        "timestamp": "2021-10-16T05:50:23Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449430980057108480",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449430980057108480",
+        "timestamp": "2021-10-16T17:44:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449612236224991232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449612236224991232",
+        "timestamp": "2021-10-17T05:44:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449793441415303168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449793441415303168",
+        "timestamp": "2021-10-17T17:44:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1449974880366759936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1449974880366759936",
+        "timestamp": "2021-10-18T05:45:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1450156077529174016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450156077529174016",
+        "timestamp": "2021-10-18T17:45:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1450337318576590848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450337318576590848",
+        "timestamp": "2021-10-19T05:45:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1450477958392188928",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450477958392188928",
+        "timestamp": "2021-10-19T15:04:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1450569780917440512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450569780917440512",
+        "timestamp": "2021-10-19T21:09:20Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1450661134972489728",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450661134972489728",
+        "timestamp": "2021-10-20T03:12:20Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1450721722847203328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450721722847203328",
+        "timestamp": "2021-10-20T07:13:06Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1450779578460016640",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450779578460016640",
+        "timestamp": "2021-10-20T11:02:59Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1450847673409081344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450847673409081344",
+        "timestamp": "2021-10-20T15:33:33Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1450910045607825408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1450910045607825408",
+        "timestamp": "2021-10-20T19:41:25Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451003627744268288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451003627744268288",
+        "timestamp": "2021-10-21T01:53:15Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451139476687425536",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451139476687425536",
+        "timestamp": "2021-10-21T10:53:06Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451270278234509312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451270278234509312",
+        "timestamp": "2021-10-21T19:32:51Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451381205315358720",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451381205315358720",
+        "timestamp": "2021-10-22T02:53:38Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451433891381383168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451433891381383168",
+        "timestamp": "2021-10-22T06:23:00Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451534651922321408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451534651922321408",
+        "timestamp": "2021-10-22T13:03:23Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451716004525641728",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451716004525641728",
+        "timestamp": "2021-10-23T01:04:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1451897360878669824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1451897360878669824",
+        "timestamp": "2021-10-23T13:04:40Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1452047947528146944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452047947528146944",
+        "timestamp": "2021-10-23T23:03:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1452229248373755904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452229248373755904",
+        "timestamp": "2021-10-24T11:03:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1452410446022709248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452410446022709248",
+        "timestamp": "2021-10-24T23:03:29Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1452523665005481984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452523665005481984",
+        "timestamp": "2021-10-25T06:33:22Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1452621023378673664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452621023378673664",
+        "timestamp": "2021-10-25T13:00:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1452713664871141376",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452713664871141376",
+        "timestamp": "2021-10-25T19:08:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1452895112240566272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1452895112240566272",
+        "timestamp": "2021-10-26T07:09:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453076305284173824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453076305284173824",
+        "timestamp": "2021-10-26T19:09:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453257667425341440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453257667425341440",
+        "timestamp": "2021-10-27T07:10:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453439080271450112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453439080271450112",
+        "timestamp": "2021-10-27T19:10:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453499665528918016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453499665528918016",
+        "timestamp": "2021-10-27T23:11:39Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1453593410370801664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453593410370801664",
+        "timestamp": "2021-10-28T05:24:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453685849836228608",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453685849836228608",
+        "timestamp": "2021-10-28T11:31:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1453741199213989888",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453741199213989888",
+        "timestamp": "2021-10-28T15:11:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453834259755175936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453834259755175936",
+        "timestamp": "2021-10-28T21:21:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1453925725206745088",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1453925725206745088",
+        "timestamp": "2021-10-29T03:24:38Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1454107122726866944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454107122726866944",
+        "timestamp": "2021-10-29T15:25:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454200601180114944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454200601180114944",
+        "timestamp": "2021-10-29T21:36:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454281258090631168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454281258090631168",
+        "timestamp": "2021-10-30T02:57:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454354179886682112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454354179886682112",
+        "timestamp": "2021-10-30T07:47:10Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454456808935526400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454456808935526400",
+        "timestamp": "2021-10-30T14:34:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454565507788181504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454565507788181504",
+        "timestamp": "2021-10-30T21:46:56Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1454701470719938560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454701470719938560",
+        "timestamp": "2021-10-31T06:47:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454807179293888512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454807179293888512",
+        "timestamp": "2021-10-31T13:47:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1454920431726235648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1454920431726235648",
+        "timestamp": "2021-10-31T21:17:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455101842055761920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455101842055761920",
+        "timestamp": "2021-11-01T09:18:08Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1455214858277490688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455214858277490688",
+        "timestamp": "2021-11-01T16:47:13Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455308949984120832",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455308949984120832",
+        "timestamp": "2021-11-01T23:01:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455417079988490240",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455417079988490240",
+        "timestamp": "2021-11-02T06:10:46Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455509355444047872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455509355444047872",
+        "timestamp": "2021-11-02T12:17:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455615660506746880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455615660506746880",
+        "timestamp": "2021-11-02T19:19:50Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455719463604195328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455719463604195328",
+        "timestamp": "2021-11-03T02:12:20Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455788764428242944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455788764428242944",
+        "timestamp": "2021-11-03T06:47:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455856355431682048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455856355431682048",
+        "timestamp": "2021-11-03T11:16:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1455962294713323520",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1455962294713323520",
+        "timestamp": "2021-11-03T18:17:15Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1456053705995456512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1456053705995456512",
+        "timestamp": "2021-11-04T00:20:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1456235032602480640",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1456235032602480640",
+        "timestamp": "2021-11-04T12:21:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1456416283493928960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1456416283493928960",
+        "timestamp": "2021-11-05T00:21:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1456597726111207424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1456597726111207424",
+        "timestamp": "2021-11-05T12:22:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1456778922510258176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1456778922510258176",
+        "timestamp": "2021-11-06T00:22:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1456960119832055808",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1456960119832055808",
+        "timestamp": "2021-11-06T12:22:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1457141313639026688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457141313639026688",
+        "timestamp": "2021-11-07T00:22:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1457322509295685632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457322509295685632",
+        "timestamp": "2021-11-07T12:22:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1457503705602461696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457503705602461696",
+        "timestamp": "2021-11-08T00:22:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1457684901791797248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457684901791797248",
+        "timestamp": "2021-11-08T12:22:17Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1457716418794491904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457716418794491904",
+        "timestamp": "2021-11-08T14:27:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1457862953465286656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457862953465286656",
+        "timestamp": "2021-11-09T00:09:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1457938677526171648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1457938677526171648",
+        "timestamp": "2021-11-09T05:10:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458077164380360704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458077164380360704",
+        "timestamp": "2021-11-09T14:20:50Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458135853690785792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458135853690785792",
+        "timestamp": "2021-11-09T18:14:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458317217866190848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458317217866190848",
+        "timestamp": "2021-11-10T06:14:53Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458498425191403520",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458498425191403520",
+        "timestamp": "2021-11-10T18:14:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458548070923898880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458548070923898880",
+        "timestamp": "2021-11-10T21:32:13Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458697614659686400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458697614659686400",
+        "timestamp": "2021-11-11T07:26:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458847520103862272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458847520103862272",
+        "timestamp": "2021-11-11T17:22:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1458986076214398976",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1458986076214398976",
+        "timestamp": "2021-11-12T02:32:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459124557569855488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459124557569855488",
+        "timestamp": "2021-11-12T11:42:58Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459197470025191424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459197470025191424",
+        "timestamp": "2021-11-12T16:32:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459241026924318720",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459241026924318720",
+        "timestamp": "2021-11-12T19:25:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459283657490436096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459283657490436096",
+        "timestamp": "2021-11-12T22:15:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459336365513641984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459336365513641984",
+        "timestamp": "2021-11-13T01:44:36Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459443025397682176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459443025397682176",
+        "timestamp": "2021-11-13T08:48:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459566131168677888",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459566131168677888",
+        "timestamp": "2021-11-13T16:57:36Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459673801716404224",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459673801716404224",
+        "timestamp": "2021-11-14T00:05:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1459855128906436608",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459855128906436608",
+        "timestamp": "2021-11-14T12:06:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1459957309999419392",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1459957309999419392",
+        "timestamp": "2021-11-14T18:52:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460093167570259968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460093167570259968",
+        "timestamp": "2021-11-15T03:51:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460261851928465408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460261851928465408",
+        "timestamp": "2021-11-15T15:02:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460318842621267968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460318842621267968",
+        "timestamp": "2021-11-15T18:48:38Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1460392172426629120",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460392172426629120",
+        "timestamp": "2021-11-15T23:40:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460468167867371520",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460468167867371520",
+        "timestamp": "2021-11-16T04:42:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460608657346531328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460608657346531328",
+        "timestamp": "2021-11-16T14:00:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460722160451457024",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460722160451457024",
+        "timestamp": "2021-11-16T21:31:15Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1460785299247337472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460785299247337472",
+        "timestamp": "2021-11-17T01:42:08Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1460837721206427648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460837721206427648",
+        "timestamp": "2021-11-17T05:10:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1460911884424187904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1460911884424187904",
+        "timestamp": "2021-11-17T10:05:09Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1461093161404207104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461093161404207104",
+        "timestamp": "2021-11-17T22:05:30Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461095117141053440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461095117141053440",
+        "timestamp": "2021-11-17T22:13:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461276330862579712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461276330862579712",
+        "timestamp": "2021-11-18T10:13:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461410818208829440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461410818208829440",
+        "timestamp": "2021-11-18T19:07:45Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461467651560706048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461467651560706048",
+        "timestamp": "2021-11-18T22:53:34Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461520301144674304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461520301144674304",
+        "timestamp": "2021-11-19T02:22:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461576940103143424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461576940103143424",
+        "timestamp": "2021-11-19T06:07:51Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461695215260667904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461695215260667904",
+        "timestamp": "2021-11-19T13:57:50Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1461783318663008256",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461783318663008256",
+        "timestamp": "2021-11-19T19:47:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461846662870732800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461846662870732800",
+        "timestamp": "2021-11-19T23:59:38Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1461926769379512320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461926769379512320",
+        "timestamp": "2021-11-20T05:17:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1461997981724053504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1461997981724053504",
+        "timestamp": "2021-11-20T10:00:45Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462066779630080000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462066779630080000",
+        "timestamp": "2021-11-20T14:34:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462123809413795840",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462123809413795840",
+        "timestamp": "2021-11-20T18:20:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462225520404992000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462225520404992000",
+        "timestamp": "2021-11-21T01:05:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462379794573299712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462379794573299712",
+        "timestamp": "2021-11-21T11:18:06Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462561097759330304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462561097759330304",
+        "timestamp": "2021-11-21T23:18:33Z",
+        "result": "failure",
+        "reason": "[OCP] Bootstrap failure"
+    },
+    {
+        "job_id": "1462684203719069696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462684203719069696",
+        "timestamp": "2021-11-22T07:27:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462760391086968832",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462760391086968832",
+        "timestamp": "2021-11-22T12:30:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1462872735511220224",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462872735511220224",
+        "timestamp": "2021-11-22T19:56:53Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1462948558079528960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1462948558079528960",
+        "timestamp": "2021-11-23T00:58:10Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463011883513548800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463011883513548800",
+        "timestamp": "2021-11-23T05:09:49Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463074487950905344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463074487950905344",
+        "timestamp": "2021-11-23T09:18:34Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463138958207619072",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463138958207619072",
+        "timestamp": "2021-11-23T13:34:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463211365945577472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463211365945577472",
+        "timestamp": "2021-11-23T18:22:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463266453078675456",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463266453078675456",
+        "timestamp": "2021-11-23T22:01:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463342872244785152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463342872244785152",
+        "timestamp": "2021-11-24T03:05:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463418115000897536",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463418115000897536",
+        "timestamp": "2021-11-24T08:04:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463477428914491392",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463477428914491392",
+        "timestamp": "2021-11-24T11:59:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463549894726782976",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463549894726782976",
+        "timestamp": "2021-11-24T16:47:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463622870419640320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463622870419640320",
+        "timestamp": "2021-11-24T21:37:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463703520363417600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463703520363417600",
+        "timestamp": "2021-11-25T02:58:07Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1463761177015226368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463761177015226368",
+        "timestamp": "2021-11-25T06:47:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463824217177853952",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463824217177853952",
+        "timestamp": "2021-11-25T10:57:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463899471757709312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463899471757709312",
+        "timestamp": "2021-11-25T15:56:44Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1463975167452516352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1463975167452516352",
+        "timestamp": "2021-11-25T20:57:33Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464037289096122368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464037289096122368",
+        "timestamp": "2021-11-26T01:04:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464113671272665088",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464113671272665088",
+        "timestamp": "2021-11-26T06:07:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464193629823176704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464193629823176704",
+        "timestamp": "2021-11-26T11:25:39Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1464247267534835712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464247267534835712",
+        "timestamp": "2021-11-26T14:58:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464324980912164864",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464324980912164864",
+        "timestamp": "2021-11-26T20:07:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464398101547585536",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464398101547585536",
+        "timestamp": "2021-11-27T00:58:08Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464579527479922688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464579527479922688",
+        "timestamp": "2021-11-27T12:59:04Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464760725774798848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464760725774798848",
+        "timestamp": "2021-11-28T00:59:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1464941919632101376",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1464941919632101376",
+        "timestamp": "2021-11-28T12:59:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465001991531925504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465001991531925504",
+        "timestamp": "2021-11-28T16:57:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465183277873631232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465183277873631232",
+        "timestamp": "2021-11-29T04:58:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465213504104435712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465213504104435712",
+        "timestamp": "2021-11-29T06:58:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465329207570599936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465329207570599936",
+        "timestamp": "2021-11-29T14:38:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465401071529627648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465401071529627648",
+        "timestamp": "2021-11-29T19:23:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465486314647326720",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465486314647326720",
+        "timestamp": "2021-11-30T01:02:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465667524250046464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465667524250046464",
+        "timestamp": "2021-11-30T13:02:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465743986709762048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465743986709762048",
+        "timestamp": "2021-11-30T18:06:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465808369825615872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465808369825615872",
+        "timestamp": "2021-11-30T22:22:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1465885041111339008",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465885041111339008",
+        "timestamp": "2021-12-01T03:26:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1465948639091232768",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1465948639091232768",
+        "timestamp": "2021-12-01T07:39:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466017229739921408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466017229739921408",
+        "timestamp": "2021-12-01T12:11:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466086438205394944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466086438205394944",
+        "timestamp": "2021-12-01T16:46:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466152560103526400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466152560103526400",
+        "timestamp": "2021-12-01T21:09:44Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466252232658784256",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466252232658784256",
+        "timestamp": "2021-12-02T03:45:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466330371627945984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466330371627945984",
+        "timestamp": "2021-12-02T08:56:18Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1466410058916040704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466410058916040704",
+        "timestamp": "2021-12-02T14:12:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466523128157966336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466523128157966336",
+        "timestamp": "2021-12-02T21:42:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466704535803138048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466704535803138048",
+        "timestamp": "2021-12-03T09:43:06Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466812433879273472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466812433879273472",
+        "timestamp": "2021-12-03T16:51:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1466885241397317632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1466885241397317632",
+        "timestamp": "2021-12-03T21:41:08Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1467066471677956096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467066471677956096",
+        "timestamp": "2021-12-04T09:41:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1467247670346125312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467247670346125312",
+        "timestamp": "2021-12-04T21:41:19Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1467428863767220224",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467428863767220224",
+        "timestamp": "2021-12-05T09:41:19Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1467610079149690880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467610079149690880",
+        "timestamp": "2021-12-05T21:41:23Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1467791521825689600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467791521825689600",
+        "timestamp": "2021-12-06T09:42:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1467836652163436544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467836652163436544",
+        "timestamp": "2021-12-06T12:41:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1467893270615953408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467893270615953408",
+        "timestamp": "2021-12-06T16:26:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1467952477948088320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1467952477948088320",
+        "timestamp": "2021-12-06T20:21:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468032098471251968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468032098471251968",
+        "timestamp": "2021-12-07T01:38:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468100026092752896",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468100026092752896",
+        "timestamp": "2021-12-07T06:08:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468156694075805696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468156694075805696",
+        "timestamp": "2021-12-07T09:53:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468232167388614656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468232167388614656",
+        "timestamp": "2021-12-07T14:53:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468326876119306240",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468326876119306240",
+        "timestamp": "2021-12-07T21:09:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468388208050966528",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468388208050966528",
+        "timestamp": "2021-12-08T01:13:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468459607390162944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468459607390162944",
+        "timestamp": "2021-12-08T05:57:06Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468518014017081344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468518014017081344",
+        "timestamp": "2021-12-08T09:49:12Z",
+        "result": "failure",
+        "reason": "[OCP] Bootstrap failed to complete"
+    },
+    {
+        "job_id": "1468581381708713984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468581381708713984",
+        "timestamp": "2021-12-08T14:01:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468672783792738304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468672783792738304",
+        "timestamp": "2021-12-08T20:04:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468732097710526464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468732097710526464",
+        "timestamp": "2021-12-08T23:59:53Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468784675852914688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468784675852914688",
+        "timestamp": "2021-12-09T03:28:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468863350438891520",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468863350438891520",
+        "timestamp": "2021-12-09T08:41:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468934196180291584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468934196180291584",
+        "timestamp": "2021-12-09T13:22:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1468992194722402304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1468992194722402304",
+        "timestamp": "2021-12-09T17:13:23Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469150026264481792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469150026264481792",
+        "timestamp": "2021-12-10T03:40:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469206943720542208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469206943720542208",
+        "timestamp": "2021-12-10T07:26:46Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469283930543755264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469283930543755264",
+        "timestamp": "2021-12-10T12:32:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469362221329944576",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469362221329944576",
+        "timestamp": "2021-12-10T17:43:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469437446251876352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469437446251876352",
+        "timestamp": "2021-12-10T22:42:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469515548453769216",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469515548453769216",
+        "timestamp": "2021-12-11T03:53:03Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469606213619552256",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469606213619552256",
+        "timestamp": "2021-12-11T09:53:19Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469699286747844608",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469699286747844608",
+        "timestamp": "2021-12-11T16:03:10Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469757224304775168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469757224304775168",
+        "timestamp": "2021-12-11T19:53:23Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1469938444846239744",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469938444846239744",
+        "timestamp": "2021-12-12T07:53:30Z",
+        "result": "failure",
+        "reason": "[OCP-CI] failed to get CLI image"
+    },
+    {
+        "job_id": "1469948489646477312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1469948489646477312",
+        "timestamp": "2021-12-12T08:33:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470104619190325248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470104619190325248",
+        "timestamp": "2021-12-12T18:53:48Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1470174872985407488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470174872985407488",
+        "timestamp": "2021-12-12T23:32:58Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470356204243914752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470356204243914752",
+        "timestamp": "2021-12-13T11:33:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470537561888788480",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470537561888788480",
+        "timestamp": "2021-12-13T23:34:10Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470539782890196992",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470539782890196992",
+        "timestamp": "2021-12-13T23:42:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470597645683658752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470597645683658752",
+        "timestamp": "2021-12-14T03:32:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470675813094395904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470675813094395904",
+        "timestamp": "2021-12-14T08:43:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470733595084591104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470733595084591104",
+        "timestamp": "2021-12-14T12:33:06Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1470914932919767040",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1470914932919767040",
+        "timestamp": "2021-12-15T00:33:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471096211338432512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471096211338432512",
+        "timestamp": "2021-12-15T12:34:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471136796405403648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471136796405403648",
+        "timestamp": "2021-12-15T15:15:19Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471318178217857024",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471318178217857024",
+        "timestamp": "2021-12-16T03:16:04Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471499408909537280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471499408909537280",
+        "timestamp": "2021-12-16T15:16:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471556388072198144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471556388072198144",
+        "timestamp": "2021-12-16T19:02:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471737793918013440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471737793918013440",
+        "timestamp": "2021-12-17T07:03:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1471855859616190464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1471855859616190464",
+        "timestamp": "2021-12-17T14:52:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI] failed to get CLI image"
+    },
+    {
+        "job_id": "1472037270147043328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472037270147043328",
+        "timestamp": "2021-12-18T02:53:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472052786437820416",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472052786437820416",
+        "timestamp": "2021-12-18T03:55:07Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472234173291827200",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472234173291827200",
+        "timestamp": "2021-12-18T15:55:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472415369892204544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472415369892204544",
+        "timestamp": "2021-12-19T03:55:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472596565402062848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472596565402062848",
+        "timestamp": "2021-12-19T15:55:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472777773771657216",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472777773771657216",
+        "timestamp": "2021-12-20T03:55:58Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472933608506265600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472933608506265600",
+        "timestamp": "2021-12-20T14:15:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1472988930310672384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1472988930310672384",
+        "timestamp": "2021-12-20T17:55:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473069021099200512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473069021099200512",
+        "timestamp": "2021-12-20T23:13:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473130056527122432",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473130056527122432",
+        "timestamp": "2021-12-21T03:15:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473222458231230464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473222458231230464",
+        "timestamp": "2021-12-21T09:22:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473280408249438208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473280408249438208",
+        "timestamp": "2021-12-21T13:13:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473334738331635712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473334738331635712",
+        "timestamp": "2021-12-21T16:49:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473396606282764288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473396606282764288",
+        "timestamp": "2021-12-21T20:54:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473464057418747904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473464057418747904",
+        "timestamp": "2021-12-22T01:23:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473529496471605248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473529496471605248",
+        "timestamp": "2021-12-22T05:43:03Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473710744057942016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473710744057942016",
+        "timestamp": "2021-12-22T17:43:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1473850578789470208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473850578789470208",
+        "timestamp": "2021-12-23T02:58:55Z",
+        "result": "failure",
+        "reason": "[CNV] disks-images-provider timeout"
+    },
+    {
+        "job_id": "1473906063026688000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473906063026688000",
+        "timestamp": "2021-12-23T06:39:23Z",
+        "result": "failure",
+        "reason": "[OCP-CI] failed to get CLI image"
+    },
+    {
+        "job_id": "1473962501069606912",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1473962501069606912",
+        "timestamp": "2021-12-23T10:23:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474040358743576576",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474040358743576576",
+        "timestamp": "2021-12-23T15:33:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474102641737863168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474102641737863168",
+        "timestamp": "2021-12-23T19:40:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474188430937165824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474188430937165824",
+        "timestamp": "2021-12-24T01:21:25Z",
+        "result": "failure",
+        "reason": "[CNV] disks-images-provider timeout"
+    },
+    {
+        "job_id": "1474369844999622656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474369844999622656",
+        "timestamp": "2021-12-24T13:22:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474381568867831808",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474381568867831808",
+        "timestamp": "2021-12-24T14:08:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474436185349689344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474436185349689344",
+        "timestamp": "2021-12-24T17:45:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474508059219857408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474508059219857408",
+        "timestamp": "2021-12-24T22:31:30Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474575468559601664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474575468559601664",
+        "timestamp": "2021-12-25T02:59:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474756922136596480",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474756922136596480",
+        "timestamp": "2021-12-25T15:00:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1474938347766943744",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1474938347766943744",
+        "timestamp": "2021-12-26T03:01:19Z",
+        "result": "failure",
+        "reason": "[CNV] disks-images-provider timeout"
+    },
+    {
+        "job_id": "1475119543956279297",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1475119543956279297",
+        "timestamp": "2021-12-26T15:01:20Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1475300740812509184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1475300740812509184",
+        "timestamp": "2021-12-27T03:01:20Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1475481936129429504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1475481936129429504",
+        "timestamp": "2021-12-27T15:01:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1475663134164258816",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1475663134164258816",
+        "timestamp": "2021-12-28T03:01:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1475844328550043648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1475844328550043648",
+        "timestamp": "2021-12-28T15:01:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1476025535686512640",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1476025535686512640",
+        "timestamp": "2021-12-29T03:01:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1476206972586954752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1476206972586954752",
+        "timestamp": "2021-12-29T15:02:23Z",
+        "result": "failure",
+        "reason": "[OCP] Bootstrap failed to complete"
+    },
+    {
+        "job_id": "1476388168948256768",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1476388168948256768",
+        "timestamp": "2021-12-30T03:02:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1476569365468942336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1476569365468942336",
+        "timestamp": "2021-12-30T15:02:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1476750561666666496",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1476750561666666496",
+        "timestamp": "2021-12-31T03:02:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1476931757692424192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1476931757692424192",
+        "timestamp": "2021-12-31T15:02:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1477112953827233792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1477112953827233792",
+        "timestamp": "2022-01-01T03:02:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1477294149655859200",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1477294149655859200",
+        "timestamp": "2022-01-01T15:02:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1477453805753733120",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1477453805753733120",
+        "timestamp": "2022-01-02T01:36:51Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1477635150798917632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1477635150798917632",
+        "timestamp": "2022-01-02T13:37:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1477816352038195200",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1477816352038195200",
+        "timestamp": "2022-01-03T01:37:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1477945200696365056",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1477945200696365056",
+        "timestamp": "2022-01-03T10:09:23Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478022061468160000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478022061468160000",
+        "timestamp": "2022-01-03T15:14:54Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1478085467583811584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478085467583811584",
+        "timestamp": "2022-01-03T19:26:51Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478165960132136960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478165960132136960",
+        "timestamp": "2022-01-04T00:46:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478297572228468736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478297572228468736",
+        "timestamp": "2022-01-04T09:29:41Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1478373816596959232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478373816596959232",
+        "timestamp": "2022-01-04T14:32:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478483795211456512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478483795211456512",
+        "timestamp": "2022-01-04T21:49:40Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1478542349561761792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478542349561761792",
+        "timestamp": "2022-01-05T01:42:19Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478598464781684736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478598464781684736",
+        "timestamp": "2022-01-05T05:25:19Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1478653429524992000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478653429524992000",
+        "timestamp": "2022-01-05T09:03:43Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1478728271150452736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478728271150452736",
+        "timestamp": "2022-01-05T14:00:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478794396278198272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478794396278198272",
+        "timestamp": "2022-01-05T18:23:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1478861222395777024",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1478861222395777024",
+        "timestamp": "2022-01-05T22:49:25Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    }
+]
