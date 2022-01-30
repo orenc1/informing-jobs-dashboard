@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1487825909569294336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1487825909569294336",
+        "timestamp": "2022-01-30T16:31:53Z",
+        "result": "failure",
+        "reason": "[OCP] Bootstrap failed to complete"
+    },
+    {
         "job_id": "1487751994423644160",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1487751994423644160",
         "timestamp": "2022-01-30T11:38:10Z",
