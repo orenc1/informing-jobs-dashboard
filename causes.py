@@ -17,7 +17,8 @@ causes_list = {
     'level=error msg=Error: Error Deleting Network Security Rule "bootstrap_ssh_in"': "[OCP-Installer] Bootstrap resources destruction error",
     'level=error msg=Error: Unable to locate Storage Account': "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)",
     'ipi-deprovision-deprovision failed after': "[OCP-Installer] IPI Deprovision error",
-    'Internal error occurred: admission plugin "LimitRanger" failed to complete mutation in': "[OCP] Internal Error"
+    'Internal error occurred: admission plugin "LimitRanger" failed to complete mutation in': "[OCP] Internal Error",
+    'error: failed to create/update secret': "[OCP-CI] failed to create/update secret"
 }
 
 advanced_causes_list = [
@@ -33,5 +34,9 @@ advanced_causes_list = [
     ([
         "oc wait HyperConverged kubevirt-hyperconverged -n openshift-cnv --for condition=Available --timeout=30m",
         "error: timed out waiting for the condition on hyperconvergeds/kubevirt-hyperconverged"
-    ], "[CNV] Deployment failure - CSV not available in time")
+    ], "[CNV] Deployment failure - CSV not available in time"),
+    ([
+        'INITIAL_BOOTTIME=',
+        'cleanup'
+    ], "[CNV] VM boot time test failed")
 ]
