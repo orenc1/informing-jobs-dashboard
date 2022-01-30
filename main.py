@@ -4,7 +4,7 @@ import os
 import requests as requests
 from lxml import etree
 
-from causes import causes_list
+from causes import causes_list, advanced_causes_list
 from templates import javascript, table_head, style, links
 
 TESTS_PREFIX = "https://gcsweb-ci.apps.ci.l2s4.p1.openshiftapps.com/gcs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-"
@@ -125,6 +125,24 @@ def get_failure_reason(test_name, job_id):
         for cause in causes_list:
             if cause in line:
                 return causes_list[cause]
+
+    # regular cause could not be found, checking advanced
+    line_num = -1
+    for line in build_log.splitlines():
+        line_num += 1
+        for ac in advanced_causes_list:
+            if ac[0][0] in line:
+                is_match = False
+                i = 1
+                for aci in ac[0][1:]:
+                    if aci in build_log.splitlines()[line_num+i]:
+                        is_match = True
+                        i += 1
+                    else:
+                        is_match = False
+                        break
+                if is_match:
+                    return ac[1]
 
     print (f"Reason for failure of {test_name}/{job_id} has not been found.")
     return "Undetermined"
