@@ -18,7 +18,12 @@ causes_list = {
     'level=error msg=Error: Unable to locate Storage Account': "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)",
     'ipi-deprovision-deprovision failed after': "[OCP-Installer] IPI Deprovision error",
     'Internal error occurred: admission plugin "LimitRanger" failed to complete mutation in': "[OCP] Internal Error",
-    'error: failed to create/update secret': "[OCP-CI] failed to create/update secret"
+    'error: failed to create/update secret': "[OCP-CI] failed to create/update secret",
+    'cnv-gather-must-gather failed after': "[OCP-CI-MG]: cnv-gather-must-gather failed",
+    'cnv-gather-azure-cli failed after': "[OCP-CI-MG]: gather-azure-cli failed",
+    'failed to resolve release oldest-supported-credentials-request': "[OCP-CI]: version not found in list of releases",
+    'failed: failed to get CLI image': "[OCP-CI]: failed to get CLI image",
+
 }
 
 advanced_causes_list = [

@@ -27,6 +27,13 @@ def load_data(test_jobs):
                 test_jobs[ij] = json.load(fh)
     return test_jobs
 
+def resolve_undetermined(test_jobs):
+    for lane in test_jobs:
+        for tj in test_jobs[lane]:
+            if tj['reason'] == 'Undetermined':
+                tj['reason'] = get_failure_reason(lane, tj['job_id'])
+
+
 def collect_data(test_jobs):
     for ij in INFORMING_JOBS:
         html_response = requests.get(TESTS_PREFIX + ij).text
@@ -54,8 +61,6 @@ def collect_data(test_jobs):
                     reason = get_failure_reason(ij, job_id)
                 else:
                     reason = ""
-
-
                 tj = {
                     "job_id": job_id.replace('/', ''),
                     "job_url": job_url,
@@ -157,6 +162,7 @@ def main():
     create_dirs_if_not_exists(["results", "web"])
     test_jobs = {}
     load_data(test_jobs)
+    resolve_undetermined(test_jobs)
     collect_data(test_jobs)
     render_html(test_jobs)
 
