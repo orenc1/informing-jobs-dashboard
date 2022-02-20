@@ -46,7 +46,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1494360973841010688",
         "timestamp": "2022-02-17T17:19:54Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1494179776074616832",
@@ -137,7 +137,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1492479365714284544",
         "timestamp": "2022-02-12T12:43:04Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI]: version not found in list of releases"
     },
     {
         "job_id": "1492298026046197760",
@@ -354,7 +354,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1489615297332645888",
         "timestamp": "2022-02-04T15:02:16Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI]: failed to get CLI image"
     },
     {
         "job_id": "1489537211048136704",
@@ -375,14 +375,14 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1489418736669560832",
         "timestamp": "2022-02-04T02:01:13Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI]: failed to get CLI image"
     },
     {
         "job_id": "1489362107563511808",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1489362107563511808",
         "timestamp": "2022-02-03T22:16:10Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI]: failed to get CLI image"
     },
     {
         "job_id": "1489299193091592192",
@@ -3511,6 +3511,6 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1487825915449708544",
         "timestamp": "2022-01-30T16:31:54Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI] failed to create/update secret"
     }
 ]

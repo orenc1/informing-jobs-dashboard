@@ -4,14 +4,14 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1495254049132384256",
         "timestamp": "2022-02-20T04:28:40Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1495072853626720256",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1495072853626720256",
         "timestamp": "2022-02-19T16:28:39Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1494891656686604288",
@@ -25,7 +25,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1494710315177218048",
         "timestamp": "2022-02-18T16:28:04Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1494529118866247680",
@@ -53,7 +53,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493985319429607424",
         "timestamp": "2022-02-16T16:27:11Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1493811880576159744",
@@ -67,21 +67,21 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493748951755526144",
         "timestamp": "2022-02-16T00:47:57Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1493645889837731840",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493645889837731840",
         "timestamp": "2022-02-15T17:58:24Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1493523347646976000",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493523347646976000",
         "timestamp": "2022-02-15T09:51:28Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1493577992264224768",
@@ -95,42 +95,42 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493420881869803520",
         "timestamp": "2022-02-15T03:04:19Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1493246840517169152",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493246840517169152",
         "timestamp": "2022-02-14T15:32:44Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1493065643916791808",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1493065643916791808",
         "timestamp": "2022-02-14T03:32:43Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1492884288394235904",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1492884288394235904",
         "timestamp": "2022-02-13T15:32:05Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1492703090636230656",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1492703090636230656",
         "timestamp": "2022-02-13T03:32:04Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1492521782140211200",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1492521782140211200",
         "timestamp": "2022-02-12T15:31:37Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1492461496200859648",
@@ -144,7 +144,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1492280063855431680",
         "timestamp": "2022-02-11T23:31:06Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1492185764132294656",
@@ -158,21 +158,21 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1492114167644033024",
         "timestamp": "2022-02-11T12:31:54Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491932787630936064",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491932787630936064",
         "timestamp": "2022-02-11T00:31:09Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491751423833018368",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491751423833018368",
         "timestamp": "2022-02-10T12:30:29Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491677808953397248",
@@ -186,21 +186,21 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491610858550202368",
         "timestamp": "2022-02-10T03:11:55Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491539439204175872",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491539439204175872",
         "timestamp": "2022-02-09T22:28:08Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491519969928679424",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491519969928679424",
         "timestamp": "2022-02-09T21:10:45Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491426754500235264",
@@ -242,28 +242,28 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491130396530708480",
         "timestamp": "2022-02-08T19:22:44Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1491097196265738240",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1491097196265738240",
         "timestamp": "2022-02-08T17:10:49Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1490899440318287872",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1490899440318287872",
         "timestamp": "2022-02-08T04:05:00Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1490915870099116032",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1490915870099116032",
         "timestamp": "2022-02-08T05:10:17Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
     },
     {
         "job_id": "1490708224217714688",
@@ -354,7 +354,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1489365795556298752",
         "timestamp": "2022-02-03T22:30:50Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI]: failed to get CLI image"
     },
     {
         "job_id": "1489141120205066240",
@@ -1775,7 +1775,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1460334873788026880",
         "timestamp": "2021-11-15T19:52:19Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[CNV] VM boot time test failed"
     },
     {
         "job_id": "1460516212969574400",
@@ -2496,7 +2496,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1470808731850641408",
         "timestamp": "2021-12-14T17:31:42Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI]: version not found in list of releases"
     },
     {
         "job_id": "1470990012605534208",
@@ -2783,7 +2783,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1477686489742577664",
         "timestamp": "2022-01-02T17:01:27Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[CNV] VM boot time test failed"
     },
     {
         "job_id": "1477867688637239296",

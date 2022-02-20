@@ -487,7 +487,7 @@
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.7-e2e-azure-deploy-cnv/1443245164347789312",
         "timestamp": "2021-09-29T16:03:56Z",
         "result": "failure",
-        "reason": "Undetermined"
+        "reason": "[OCP-CI-MG]: cnv-gather-must-gather failed"
     },
     {
         "job_id": "1443426605127962624",
