@@ -32,6 +32,8 @@ def resolve_undetermined(test_jobs):
         for tj in test_jobs[lane]:
             if tj['reason'] == 'Undetermined':
                 tj['reason'] = get_failure_reason(lane, tj['job_id'])
+                if tj['reason'] != 'Undetermined':
+                    print (f'INFO: reason for job {tj["job_id"]} in {lane} was updated to {tj["reason"]}.')
 
 
 def collect_data(test_jobs):
