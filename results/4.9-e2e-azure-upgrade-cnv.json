@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1498351558197252096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1498351558197252096",
+        "timestamp": "2022-02-28T17:37:04Z",
+        "result": "failure",
+        "reason": "[Infra] registry.redhat.io Service Unavailable"
+    },
+    {
         "job_id": "1498170302893395968",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1498170302893395968",
         "timestamp": "2022-02-28T05:36:49Z",
