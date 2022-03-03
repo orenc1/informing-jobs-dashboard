@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1499443899725254656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.7-e2e-azure-deploy-cnv/1499443899725254656",
+        "timestamp": "2022-03-03T17:57:38Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
         "job_id": "1499408564752486400",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.7-e2e-azure-deploy-cnv/1499408564752486400",
         "timestamp": "2022-03-03T15:37:13Z",
