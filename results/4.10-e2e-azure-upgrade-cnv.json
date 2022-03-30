@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1509027832842424320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1509027832842424320",
+        "timestamp": "2022-03-30T04:40:46Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure - CSV not available in time"
+    },
+    {
         "job_id": "1508846405748264960",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1508846405748264960",
         "timestamp": "2022-03-29T16:39:50Z",
