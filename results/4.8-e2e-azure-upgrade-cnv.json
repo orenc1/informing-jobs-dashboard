@@ -1,5 +1,19 @@
 [
     {
+        "job_id": "1509987698885005312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1509987698885005312",
+        "timestamp": "2022-04-01T20:14:56Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1510035889646997504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1510035889646997504",
+        "timestamp": "2022-04-01T23:26:25Z",
+        "result": "failure",
+        "reason": "[OCP-CI] failed to create/update secret"
+    },
+    {
         "job_id": "1509806503727468544",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1509806503727468544",
         "timestamp": "2022-04-01T08:14:55Z",
