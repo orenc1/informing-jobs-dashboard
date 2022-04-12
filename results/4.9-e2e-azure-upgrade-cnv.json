@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1513657727505666048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1513657727505666048",
+        "timestamp": "2022-04-11T23:18:18Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
         "job_id": "1513531337909211136",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.9-e2e-azure-upgrade-cnv/1513531337909211136",
         "timestamp": "2022-04-11T14:56:05Z",
