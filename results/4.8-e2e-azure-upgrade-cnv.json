@@ -1,5 +1,19 @@
 [
     {
+        "job_id": "1527853818518179840",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1527853818518179840",
+        "timestamp": "2022-05-21T03:28:31Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: cnv-gather-must-gather failed"
+    },
+    {
+        "job_id": "1527860505350246400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1527860505350246400",
+        "timestamp": "2022-05-21T03:55:05Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
         "job_id": "1527672622827966464",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1527672622827966464",
         "timestamp": "2022-05-20T15:28:30Z",
