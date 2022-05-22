@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1528223005686108160",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1528223005686108160",
+        "timestamp": "2022-05-22T03:55:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
         "job_id": "1528041809119285248",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.8-e2e-azure-upgrade-cnv/1528041809119285248",
         "timestamp": "2022-05-21T15:55:31Z",
