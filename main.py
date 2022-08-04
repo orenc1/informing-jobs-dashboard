@@ -57,7 +57,7 @@ def collect_data(test_jobs):
                 test_result = prowjob["status"]["state"]
                 if test_result == "pending":
                     continue
-                job_url = prowjob["status"]["url"]
+                job_url = prowjob["status"]["url"] if "url" in prowjob["status"] else "N/A"
 
                 if test_result == "failure":
                     reason = get_failure_reason(ij, job_id)
