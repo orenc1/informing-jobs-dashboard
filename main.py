@@ -18,6 +18,10 @@ INFORMING_JOBS = {
     "4.9-e2e-azure-upgrade-cnv": "4.9-upgrade",
     "4.10-e2e-azure-deploy-cnv": "4.10-deploy",
     "4.10-e2e-azure-upgrade-cnv": "4.10-upgrade",
+    "4.11-e2e-azure-deploy-cnv": "4.11-deploy",
+    "4.11-e2e-azure-upgrade-cnv": "4.11-upgrade",
+    "4.12-e2e-azure-deploy-cnv": "4.12-deploy",
+    "4.12-e2e-azure-upgrade-cnv": "4.12-upgrade",
 }
 
 def load_data(test_jobs):
