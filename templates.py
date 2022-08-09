@@ -23,10 +23,10 @@ links = """
     <a href=4.9-e2e-azure-upgrade-cnv.html>4.9-upgrade</a><br>
     <a href=4.10-e2e-azure-deploy-cnv.html>4.10-deploy</a><br>
     <a href=4.10-e2e-azure-upgrade-cnv.html>4.10-upgrade</a><br>
-    <a href=4.11-e2e-azure-deploy-cnv.html>4.10-deploy</a><br>
-    <a href=4.11-e2e-azure-upgrade-cnv.html>4.10-upgrade</a><br>
-    <a href=4.12-e2e-azure-deploy-cnv.html>4.10-deploy</a><br>
-    <a href=4.12-e2e-azure-upgrade-cnv.html>4.10-upgrade</a><br>
+    <a href=4.11-e2e-azure-deploy-cnv.html>4.11-deploy</a><br>
+    <a href=4.11-e2e-azure-upgrade-cnv.html>4.11-upgrade</a><br>
+    <a href=4.12-e2e-azure-deploy-cnv.html>4.12-deploy</a><br>
+    <a href=4.12-e2e-azure-upgrade-cnv.html>4.12-upgrade</a><br>
     </center>        
 """
 
