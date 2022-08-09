@@ -1,0 +1,3957 @@
+[
+    {
+        "job_id": "1491613049142906880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1491613049142906880",
+        "timestamp": "2022-02-10T03:20:38Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1491668683326492672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1491668683326492672",
+        "timestamp": "2022-02-10T07:01:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1491754618139447296",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1491754618139447296",
+        "timestamp": "2022-02-10T12:43:10Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1491835990464008192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1491835990464008192",
+        "timestamp": "2022-02-10T18:06:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1491953206878539776",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1491953206878539776",
+        "timestamp": "2022-02-11T01:52:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492010564015099904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492010564015099904",
+        "timestamp": "2022-02-11T05:40:12Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1492070188848254976",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492070188848254976",
+        "timestamp": "2022-02-11T09:37:08Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492152450482704384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492152450482704384",
+        "timestamp": "2022-02-11T15:04:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492257718562459648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492257718562459648",
+        "timestamp": "2022-02-11T22:02:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492323274401517568",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492323274401517568",
+        "timestamp": "2022-02-12T02:22:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492408565862764544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492408565862764544",
+        "timestamp": "2022-02-12T08:01:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492589843320934400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492589843320934400",
+        "timestamp": "2022-02-12T20:02:04Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492771042039435264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492771042039435264",
+        "timestamp": "2022-02-13T08:02:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1492952235733159936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1492952235733159936",
+        "timestamp": "2022-02-13T20:02:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493133598356672512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493133598356672512",
+        "timestamp": "2022-02-14T08:02:45Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1493203839807918080",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493203839807918080",
+        "timestamp": "2022-02-14T12:41:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493317134271385600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493317134271385600",
+        "timestamp": "2022-02-14T20:12:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493378076594147328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493378076594147328",
+        "timestamp": "2022-02-15T00:14:12Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1493438039454650368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493438039454650368",
+        "timestamp": "2022-02-15T04:12:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493496052177702912",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493496052177702912",
+        "timestamp": "2022-02-15T08:03:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493549460498681856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493549460498681856",
+        "timestamp": "2022-02-15T11:35:14Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493601356324278272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493601356324278272",
+        "timestamp": "2022-02-15T15:01:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493668507882098688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493668507882098688",
+        "timestamp": "2022-02-15T19:28:15Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1493731500443570176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493731500443570176",
+        "timestamp": "2022-02-15T23:38:36Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493872600613392384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493872600613392384",
+        "timestamp": "2022-02-16T08:59:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493937308934606848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493937308934606848",
+        "timestamp": "2022-02-16T13:16:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1493997931219390464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1493997931219390464",
+        "timestamp": "2022-02-16T17:17:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494057481947582464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494057481947582464",
+        "timestamp": "2022-02-16T21:13:55Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1494142398811344896",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494142398811344896",
+        "timestamp": "2022-02-17T02:51:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494211707734593536",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494211707734593536",
+        "timestamp": "2022-02-17T07:26:46Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494392933401497600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494392933401497600",
+        "timestamp": "2022-02-17T19:26:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494461715482415104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494461715482415104",
+        "timestamp": "2022-02-18T00:00:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494522174441000960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494522174441000960",
+        "timestamp": "2022-02-18T04:00:24Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494579698963845120",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494579698963845120",
+        "timestamp": "2022-02-18T07:49:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494647929208573952",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494647929208573952",
+        "timestamp": "2022-02-18T12:20:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1494829350623645696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1494829350623645696",
+        "timestamp": "2022-02-19T00:21:04Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1495010692644737024",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1495010692644737024",
+        "timestamp": "2022-02-19T12:21:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1495191888913764352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1495191888913764352",
+        "timestamp": "2022-02-20T00:21:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1495373085400895488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1495373085400895488",
+        "timestamp": "2022-02-20T12:21:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1495554280696844288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1495554280696844288",
+        "timestamp": "2022-02-21T00:21:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1495735477116866560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1495735477116866560",
+        "timestamp": "2022-02-21T12:21:41Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1495909332900909056",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1495909332900909056",
+        "timestamp": "2022-02-21T23:52:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496090655200382976",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496090655200382976",
+        "timestamp": "2022-02-22T11:53:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496272004821553152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496272004821553152",
+        "timestamp": "2022-02-22T23:53:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496348417280970752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496348417280970752",
+        "timestamp": "2022-02-23T04:57:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496494504289505280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496494504289505280",
+        "timestamp": "2022-02-23T14:37:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496559855819821056",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496559855819821056",
+        "timestamp": "2022-02-23T18:57:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496622214588403712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496622214588403712",
+        "timestamp": "2022-02-23T23:05:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496725847929786368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496725847929786368",
+        "timestamp": "2022-02-24T05:57:04Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496815924282396672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496815924282396672",
+        "timestamp": "2022-02-24T11:54:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1496904646935973888",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1496904646935973888",
+        "timestamp": "2022-02-24T17:47:33Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1497013118419603456",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497013118419603456",
+        "timestamp": "2022-02-25T00:58:34Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1497194464374951936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497194464374951936",
+        "timestamp": "2022-02-25T12:59:11Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1497195738948440064",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497195738948440064",
+        "timestamp": "2022-02-25T13:04:15Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1497377126171545600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497377126171545600",
+        "timestamp": "2022-02-26T01:05:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1497391768704913408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497391768704913408",
+        "timestamp": "2022-02-26T02:03:12Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1497573169798582272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497573169798582272",
+        "timestamp": "2022-02-26T14:04:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1497754368194121728",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497754368194121728",
+        "timestamp": "2022-02-27T02:04:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1497760237342429184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497760237342429184",
+        "timestamp": "2022-02-27T02:27:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1497913766354882560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1497913766354882560",
+        "timestamp": "2022-02-27T12:37:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1498095115149774848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1498095115149774848",
+        "timestamp": "2022-02-28T00:38:03Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1498276317332770816",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1498276317332770816",
+        "timestamp": "2022-02-28T12:38:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1498457675204136960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1498457675204136960",
+        "timestamp": "2022-03-01T00:38:44Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1498639046379835392",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1498639046379835392",
+        "timestamp": "2022-03-01T12:39:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1498820242153934848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1498820242153934848",
+        "timestamp": "2022-03-02T00:39:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1498910399410475008",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1498910399410475008",
+        "timestamp": "2022-03-02T06:37:41Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1499091800571252736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499091800571252736",
+        "timestamp": "2022-03-02T18:38:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1499269452833755136",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499269452833755136",
+        "timestamp": "2022-03-03T06:24:26Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1499450769479307264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499450769479307264",
+        "timestamp": "2022-03-03T18:24:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1499508938092056576",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499508938092056576",
+        "timestamp": "2022-03-03T22:16:03Z",
+        "result": "failure",
+        "reason": "[Infra] registry.redhat.io Service Unavailable"
+    },
+    {
+        "job_id": "1499634481860972544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499634481860972544",
+        "timestamp": "2022-03-04T06:34:56Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1499815783327338496",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499815783327338496",
+        "timestamp": "2022-03-04T18:35:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1499996980170985472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1499996980170985472",
+        "timestamp": "2022-03-05T06:35:23Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1500178337044107264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1500178337044107264",
+        "timestamp": "2022-03-05T18:36:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1500293043918475264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1500293043918475264",
+        "timestamp": "2022-03-06T02:11:50Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1500433984037851136",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1500433984037851136",
+        "timestamp": "2022-03-06T11:31:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1500615220844826624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1500615220844826624",
+        "timestamp": "2022-03-06T23:32:03Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1500796421928914944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1500796421928914944",
+        "timestamp": "2022-03-07T11:32:04Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1500919722776989696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1500919722776989696",
+        "timestamp": "2022-03-07T19:42:01Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1501080895480664064",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501080895480664064",
+        "timestamp": "2022-03-08T06:22:28Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1501262187686006784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501262187686006784",
+        "timestamp": "2022-03-08T18:22:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1501277643461365760",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501277643461365760",
+        "timestamp": "2022-03-08T19:24:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1501458838048477184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501458838048477184",
+        "timestamp": "2022-03-09T07:24:17Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1501640034497859584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501640034497859584",
+        "timestamp": "2022-03-09T19:24:17Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1501708854994407424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501708854994407424",
+        "timestamp": "2022-03-09T23:57:45Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1501859812223225856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1501859812223225856",
+        "timestamp": "2022-03-10T09:57:35Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1502041192823525376",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502041192823525376",
+        "timestamp": "2022-03-10T21:58:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502045562780782592",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502045562780782592",
+        "timestamp": "2022-03-10T22:15:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502130944927076352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502130944927076352",
+        "timestamp": "2022-03-11T03:54:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502247018607677440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502247018607677440",
+        "timestamp": "2022-03-11T11:36:13Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502316933578493952",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502316933578493952",
+        "timestamp": "2022-03-11T16:14:02Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1502434697278394368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502434697278394368",
+        "timestamp": "2022-03-12T00:01:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502498074990219264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502498074990219264",
+        "timestamp": "2022-03-12T04:13:50Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502602417403858944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502602417403858944",
+        "timestamp": "2022-03-12T11:08:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502702196813205504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502702196813205504",
+        "timestamp": "2022-03-12T17:44:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502883411180654592",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502883411180654592",
+        "timestamp": "2022-03-13T05:45:02Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1502887501444943872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502887501444943872",
+        "timestamp": "2022-03-13T06:01:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1502988180138233856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1502988180138233856",
+        "timestamp": "2022-03-13T12:41:20Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1503144650364424192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503144650364424192",
+        "timestamp": "2022-03-13T23:03:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1503258278698684416",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503258278698684416",
+        "timestamp": "2022-03-14T06:34:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1503335157162053632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503335157162053632",
+        "timestamp": "2022-03-14T11:40:06Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1503428551423037440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503428551423037440",
+        "timestamp": "2022-03-14T17:51:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1503530821728866304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503530821728866304",
+        "timestamp": "2022-03-15T00:37:36Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1503613128548552704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503613128548552704",
+        "timestamp": "2022-03-15T06:04:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1503722860839964672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503722860839964672",
+        "timestamp": "2022-03-15T13:20:41Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1503862872835362816",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1503862872835362816",
+        "timestamp": "2022-03-15T22:37:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1504044254786228224",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504044254786228224",
+        "timestamp": "2022-03-16T10:37:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1504045444118876160",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504045444118876160",
+        "timestamp": "2022-03-16T10:42:31Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1504141307453378560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504141307453378560",
+        "timestamp": "2022-03-16T17:03:27Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1504287864815357952",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504287864815357952",
+        "timestamp": "2022-03-17T02:45:49Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1504343597586059264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504343597586059264",
+        "timestamp": "2022-03-17T06:27:17Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1504484739451457536",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504484739451457536",
+        "timestamp": "2022-03-17T15:48:07Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1504516246425571328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504516246425571328",
+        "timestamp": "2022-03-17T17:53:20Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1504620095849107456",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504620095849107456",
+        "timestamp": "2022-03-18T00:45:59Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1504713245972238336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504713245972238336",
+        "timestamp": "2022-03-18T06:56:07Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1504788785672491008",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504788785672491008",
+        "timestamp": "2022-03-18T11:56:18Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1504930400399527936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1504930400399527936",
+        "timestamp": "2022-03-18T21:19:01Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1505002331702300672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505002331702300672",
+        "timestamp": "2022-03-19T02:04:51Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1505066211493285888",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505066211493285888",
+        "timestamp": "2022-03-19T06:18:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1505229759993352192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505229759993352192",
+        "timestamp": "2022-03-19T17:08:34Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1505290201553965056",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505290201553965056",
+        "timestamp": "2022-03-19T21:08:45Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1505423567213301760",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505423567213301760",
+        "timestamp": "2022-03-20T05:58:42Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1505510305059311616",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505510305059311616",
+        "timestamp": "2022-03-20T11:43:22Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1505577040806416384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505577040806416384",
+        "timestamp": "2022-03-20T16:08:33Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1505687801943822336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505687801943822336",
+        "timestamp": "2022-03-20T23:28:40Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1505747412365348864",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505747412365348864",
+        "timestamp": "2022-03-21T03:25:32Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1505802497195773952",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505802497195773952",
+        "timestamp": "2022-03-21T07:04:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1505882227848777728",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505882227848777728",
+        "timestamp": "2022-03-21T12:21:12Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1505999195071320064",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1505999195071320064",
+        "timestamp": "2022-03-21T20:06:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1506093446501240832",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506093446501240832",
+        "timestamp": "2022-03-22T02:20:33Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1506216920137863168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506216920137863168",
+        "timestamp": "2022-03-22T10:31:11Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1506283775489740800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506283775489740800",
+        "timestamp": "2022-03-22T14:56:50Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1506353921969360896",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506353921969360896",
+        "timestamp": "2022-03-22T19:35:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1506420360021544960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506420360021544960",
+        "timestamp": "2022-03-22T23:59:35Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1506538847326965760",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506538847326965760",
+        "timestamp": "2022-03-23T07:50:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1506626483978768384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506626483978768384",
+        "timestamp": "2022-03-23T13:38:38Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1506723557885874176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506723557885874176",
+        "timestamp": "2022-03-23T20:04:23Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1506904807275761664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1506904807275761664",
+        "timestamp": "2022-03-24T08:04:37Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1507086005801324544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507086005801324544",
+        "timestamp": "2022-03-24T20:04:38Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1507101110110785536",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507101110110785536",
+        "timestamp": "2022-03-24T21:04:36Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1507263427314192384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507263427314192384",
+        "timestamp": "2022-03-25T07:49:38Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1507327020705517568",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507327020705517568",
+        "timestamp": "2022-03-25T12:02:20Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1507397196008394752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507397196008394752",
+        "timestamp": "2022-03-25T16:41:06Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1507461504935399424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507461504935399424",
+        "timestamp": "2022-03-25T20:52:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1507529185864716288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507529185864716288",
+        "timestamp": "2022-03-26T01:25:40Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1507588181233504256",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507588181233504256",
+        "timestamp": "2022-03-26T05:20:05Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1507706537706000384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507706537706000384",
+        "timestamp": "2022-03-26T13:10:24Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1507887733966639104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507887733966639104",
+        "timestamp": "2022-03-27T01:10:25Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1507970433008275456",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1507970433008275456",
+        "timestamp": "2022-03-27T06:39:02Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1508084281723850752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508084281723850752",
+        "timestamp": "2022-03-27T14:11:25Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1508171640633036800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508171640633036800",
+        "timestamp": "2022-03-27T19:58:33Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1508272150069383168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508272150069383168",
+        "timestamp": "2022-03-28T02:37:57Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1508413906454843392",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508413906454843392",
+        "timestamp": "2022-03-28T12:01:13Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1508555510301855744",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508555510301855744",
+        "timestamp": "2022-03-28T21:23:55Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1508679472327430144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508679472327430144",
+        "timestamp": "2022-03-29T05:36:30Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1508828406370799616",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1508828406370799616",
+        "timestamp": "2022-03-29T15:28:19Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1509009713285566464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509009713285566464",
+        "timestamp": "2022-03-30T03:28:46Z",
+        "result": "error",
+        "reason": ""
+    },
+    {
+        "job_id": "1509191127385772032",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509191127385772032",
+        "timestamp": "2022-03-30T15:29:38Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1509372360384319488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509372360384319488",
+        "timestamp": "2022-03-31T03:29:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1509553684327960576",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509553684327960576",
+        "timestamp": "2022-03-31T15:30:19Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: cnv-gather-must-gather failed"
+    },
+    {
+        "job_id": "1509735031398993920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509735031398993920",
+        "timestamp": "2022-04-01T03:30:55Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1509861169928605696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509861169928605696",
+        "timestamp": "2022-04-01T11:52:08Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1509947393720717312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1509947393720717312",
+        "timestamp": "2022-04-01T17:34:46Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1510030016472158208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510030016472158208",
+        "timestamp": "2022-04-01T23:03:05Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1510114505026179072",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510114505026179072",
+        "timestamp": "2022-04-02T04:38:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1510186471884066816",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510186471884066816",
+        "timestamp": "2022-04-02T09:24:47Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1510260361993916416",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510260361993916416",
+        "timestamp": "2022-04-02T14:18:24Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1510441595789381632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510441595789381632",
+        "timestamp": "2022-04-03T02:18:33Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1510621837212520448",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510621837212520448",
+        "timestamp": "2022-04-03T14:14:46Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1510700530005970944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510700530005970944",
+        "timestamp": "2022-04-03T19:27:28Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1510881751679897600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510881751679897600",
+        "timestamp": "2022-04-04T07:27:35Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1510883701301448704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510883701301448704",
+        "timestamp": "2022-04-04T07:35:19Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1510960266894905344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1510960266894905344",
+        "timestamp": "2022-04-04T12:39:32Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1511046089074020352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511046089074020352",
+        "timestamp": "2022-04-04T18:20:36Z",
+        "result": "failure",
+        "reason": "[OCP] Bootstrap failed to complete"
+    },
+    {
+        "job_id": "1511113232507473920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511113232507473920",
+        "timestamp": "2022-04-04T22:47:23Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1511221299916050432",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511221299916050432",
+        "timestamp": "2022-04-05T05:56:49Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
+        "job_id": "1511377998429818880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511377998429818880",
+        "timestamp": "2022-04-05T16:19:29Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1511438442800615424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511438442800615424",
+        "timestamp": "2022-04-05T20:19:40Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1511498120129679360",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511498120129679360",
+        "timestamp": "2022-04-06T00:16:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1511679538050895872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511679538050895872",
+        "timestamp": "2022-04-06T12:17:42Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1511822743295758336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511822743295758336",
+        "timestamp": "2022-04-06T21:46:44Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1511882225518383104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511882225518383104",
+        "timestamp": "2022-04-07T01:43:06Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1511941129384235008",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1511941129384235008",
+        "timestamp": "2022-04-07T05:37:10Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1512026558108274688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512026558108274688",
+        "timestamp": "2022-04-07T11:16:37Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1512096834003144704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512096834003144704",
+        "timestamp": "2022-04-07T15:55:53Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1512202829433933824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512202829433933824",
+        "timestamp": "2022-04-07T22:57:03Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1512265239343665152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512265239343665152",
+        "timestamp": "2022-04-08T03:05:02Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1512348998273339392",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512348998273339392",
+        "timestamp": "2022-04-08T08:37:53Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1512410499248033792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512410499248033792",
+        "timestamp": "2022-04-08T12:42:16Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
+        "job_id": "1512473061205479424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512473061205479424",
+        "timestamp": "2022-04-08T16:50:51Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1512534766799294464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512534766799294464",
+        "timestamp": "2022-04-08T20:56:03Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1512684530316611584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512684530316611584",
+        "timestamp": "2022-04-09T06:51:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1512751410855284736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512751410855284736",
+        "timestamp": "2022-04-09T11:16:56Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1512820565251985408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512820565251985408",
+        "timestamp": "2022-04-09T15:51:44Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1512953508742041600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1512953508742041600",
+        "timestamp": "2022-04-10T00:39:59Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1513021454248054784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513021454248054784",
+        "timestamp": "2022-04-10T05:09:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1513081685401407488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513081685401407488",
+        "timestamp": "2022-04-10T09:09:19Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1513147081223573504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513147081223573504",
+        "timestamp": "2022-04-10T13:29:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1513295328747458560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513295328747458560",
+        "timestamp": "2022-04-10T23:18:16Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1513395969306136576",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513395969306136576",
+        "timestamp": "2022-04-11T05:58:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1513552024099098624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513552024099098624",
+        "timestamp": "2022-04-11T16:18:16Z",
+        "result": "failure",
+        "reason": "[OCP-CI] failed to create/update secret"
+    },
+    {
+        "job_id": "1513608639804346368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513608639804346368",
+        "timestamp": "2022-04-11T20:03:15Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1513668872912244736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513668872912244736",
+        "timestamp": "2022-04-12T00:02:36Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1513781014915190784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513781014915190784",
+        "timestamp": "2022-04-12T07:28:13Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1513838146356252672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513838146356252672",
+        "timestamp": "2022-04-12T11:15:14Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1513895834448564224",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513895834448564224",
+        "timestamp": "2022-04-12T15:04:28Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1513956113798664192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1513956113798664192",
+        "timestamp": "2022-04-12T19:03:54Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514016441316151296",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514016441316151296",
+        "timestamp": "2022-04-12T23:03:38Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514076201595965440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514076201595965440",
+        "timestamp": "2022-04-13T03:01:10Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514144312852484096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514144312852484096",
+        "timestamp": "2022-04-13T07:31:49Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514212775474237440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514212775474237440",
+        "timestamp": "2022-04-13T12:03:52Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514273441501417472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514273441501417472",
+        "timestamp": "2022-04-13T16:04:54Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514328293954818048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514328293954818048",
+        "timestamp": "2022-04-13T19:42:54Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514392881207447552",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514392881207447552",
+        "timestamp": "2022-04-13T23:59:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514454523173670912",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514454523173670912",
+        "timestamp": "2022-04-14T04:04:29Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514514575888748544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514514575888748544",
+        "timestamp": "2022-04-14T08:03:07Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514572076072046592",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514572076072046592",
+        "timestamp": "2022-04-14T11:51:36Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1514638762536079360",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514638762536079360",
+        "timestamp": "2022-04-14T16:16:34Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514714128009138176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514714128009138176",
+        "timestamp": "2022-04-14T21:16:04Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514801967812055040",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514801967812055040",
+        "timestamp": "2022-04-15T03:05:07Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514867533046353920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514867533046353920",
+        "timestamp": "2022-04-15T07:25:38Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1514925025205948416",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514925025205948416",
+        "timestamp": "2022-04-15T11:14:06Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1514992092810579968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1514992092810579968",
+        "timestamp": "2022-04-15T15:40:36Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1515063959739174912",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515063959739174912",
+        "timestamp": "2022-04-15T20:26:10Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1515127489490325504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515127489490325504",
+        "timestamp": "2022-04-16T00:38:37Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1515260121146462208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515260121146462208",
+        "timestamp": "2022-04-16T09:25:39Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1515368753670393856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515368753670393856",
+        "timestamp": "2022-04-16T16:37:19Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1515550019267072000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515550019267072000",
+        "timestamp": "2022-04-17T04:37:36Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1515672887514632192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515672887514632192",
+        "timestamp": "2022-04-17T12:45:50Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1515854277967351808",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515854277967351808",
+        "timestamp": "2022-04-18T00:46:37Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1515916966605361152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515916966605361152",
+        "timestamp": "2022-04-18T04:55:41Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1515983492410773504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1515983492410773504",
+        "timestamp": "2022-04-18T09:20:04Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1516164886957133824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516164886957133824",
+        "timestamp": "2022-04-18T21:20:52Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1516346125626380288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516346125626380288",
+        "timestamp": "2022-04-19T09:21:03Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1516375021210046464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516375021210046464",
+        "timestamp": "2022-04-19T11:15:51Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1516440506500911104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516440506500911104",
+        "timestamp": "2022-04-19T15:36:05Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1516508774842503168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516508774842503168",
+        "timestamp": "2022-04-19T20:07:21Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1516577801904328704",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516577801904328704",
+        "timestamp": "2022-04-20T00:41:38Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1516642750693380096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516642750693380096",
+        "timestamp": "2022-04-20T04:59:43Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1516766515523751936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516766515523751936",
+        "timestamp": "2022-04-20T13:11:31Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1516832161469042688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516832161469042688",
+        "timestamp": "2022-04-20T17:32:23Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1516899608129703936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516899608129703936",
+        "timestamp": "2022-04-20T22:00:20Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1516974368175951872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1516974368175951872",
+        "timestamp": "2022-04-21T02:57:28Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1517154321588817920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517154321588817920",
+        "timestamp": "2022-04-21T14:52:30Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1517223174243094528",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517223174243094528",
+        "timestamp": "2022-04-21T19:26:07Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1517299317507887104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517299317507887104",
+        "timestamp": "2022-04-22T00:28:41Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1517447412631736320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517447412631736320",
+        "timestamp": "2022-04-22T10:17:10Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1517514248178110464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517514248178110464",
+        "timestamp": "2022-04-22T14:42:45Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
+        "job_id": "1517571962090557440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517571962090557440",
+        "timestamp": "2022-04-22T18:32:05Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1517648144312045568",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517648144312045568",
+        "timestamp": "2022-04-22T23:34:48Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1517708801615073280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517708801615073280",
+        "timestamp": "2022-04-23T03:35:50Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1517774183340183552",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517774183340183552",
+        "timestamp": "2022-04-23T07:55:38Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1517832514926809088",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517832514926809088",
+        "timestamp": "2022-04-23T11:47:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1517890477137858560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517890477137858560",
+        "timestamp": "2022-04-23T15:37:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1517952917812809728",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1517952917812809728",
+        "timestamp": "2022-04-23T19:45:51Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1518020015503183872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518020015503183872",
+        "timestamp": "2022-04-24T00:12:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518086865503129600",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518086865503129600",
+        "timestamp": "2022-04-24T04:38:07Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518151869791211520",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518151869791211520",
+        "timestamp": "2022-04-24T08:56:26Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518230167342813184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518230167342813184",
+        "timestamp": "2022-04-24T14:07:33Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518411365566386176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518411365566386176",
+        "timestamp": "2022-04-25T02:07:34Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1518572522499477504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518572522499477504",
+        "timestamp": "2022-04-25T12:47:57Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518642992955527168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518642992955527168",
+        "timestamp": "2022-04-25T17:27:59Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518715695045545984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518715695045545984",
+        "timestamp": "2022-04-25T22:16:52Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1518791419978846208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518791419978846208",
+        "timestamp": "2022-04-26T03:17:46Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1518876956353892352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1518876956353892352",
+        "timestamp": "2022-04-26T08:57:38Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1519017978727763968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519017978727763968",
+        "timestamp": "2022-04-26T18:18:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1519078263387852800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519078263387852800",
+        "timestamp": "2022-04-26T22:17:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1519259625797455872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519259625797455872",
+        "timestamp": "2022-04-27T10:18:15Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1519331839615963136",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519331839615963136",
+        "timestamp": "2022-04-27T15:05:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1519465667542126592",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519465667542126592",
+        "timestamp": "2022-04-27T23:57:00Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1519557363021910016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519557363021910016",
+        "timestamp": "2022-04-28T06:01:21Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] IPI Deprovision error"
+    },
+    {
+        "job_id": "1519624600684597248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519624600684597248",
+        "timestamp": "2022-04-28T10:28:32Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1519805869649301504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519805869649301504",
+        "timestamp": "2022-04-28T22:28:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1519987113624342528",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1519987113624342528",
+        "timestamp": "2022-04-29T10:29:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1520046656312053760",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520046656312053760",
+        "timestamp": "2022-04-29T14:25:35Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1520112993298288640",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520112993298288640",
+        "timestamp": "2022-04-29T18:49:14Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1520170937243144192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520170937243144192",
+        "timestamp": "2022-04-29T22:39:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1520352266853289984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520352266853289984",
+        "timestamp": "2022-04-30T10:40:01Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1520533464640655360",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520533464640655360",
+        "timestamp": "2022-04-30T22:40:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1520714657935921152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520714657935921152",
+        "timestamp": "2022-05-01T10:40:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1520895910735777792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1520895910735777792",
+        "timestamp": "2022-05-01T22:40:16Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1521077345463570432",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521077345463570432",
+        "timestamp": "2022-05-02T10:41:14Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1521221782034452480",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521221782034452480",
+        "timestamp": "2022-05-02T20:15:10Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1521403193194450944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521403193194450944",
+        "timestamp": "2022-05-03T08:16:02Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1521478641941221376",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521478641941221376",
+        "timestamp": "2022-05-03T13:15:49Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1521574827993862144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521574827993862144",
+        "timestamp": "2022-05-03T19:38:01Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1521632510818127872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521632510818127872",
+        "timestamp": "2022-05-03T23:27:15Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1521734248824836096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521734248824836096",
+        "timestamp": "2022-05-04T06:11:31Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1521829960992428032",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521829960992428032",
+        "timestamp": "2022-05-04T12:31:45Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1521911809395658752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521911809395658752",
+        "timestamp": "2022-05-04T17:57:05Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1521968890437963776",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1521968890437963776",
+        "timestamp": "2022-05-04T21:43:54Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1522032295597314048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522032295597314048",
+        "timestamp": "2022-05-05T01:55:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1522098424160194560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522098424160194560",
+        "timestamp": "2022-05-05T06:18:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1522194383657504768",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522194383657504768",
+        "timestamp": "2022-05-05T12:39:55Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1522267801245454336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522267801245454336",
+        "timestamp": "2022-05-05T17:31:39Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1522449134122962944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522449134122962944",
+        "timestamp": "2022-05-06T05:32:13Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1522457682559111168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522457682559111168",
+        "timestamp": "2022-05-06T06:06:11Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1522546839981658112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522546839981658112",
+        "timestamp": "2022-05-06T12:00:28Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1522638305970098176",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522638305970098176",
+        "timestamp": "2022-05-06T18:03:54Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1522696494010863616",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522696494010863616",
+        "timestamp": "2022-05-06T21:55:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1522786651430981632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522786651430981632",
+        "timestamp": "2022-05-07T03:53:23Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1522846558914088960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522846558914088960",
+        "timestamp": "2022-05-07T07:51:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1522907517254897664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522907517254897664",
+        "timestamp": "2022-05-07T11:53:39Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1522975000217260032",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1522975000217260032",
+        "timestamp": "2022-05-07T16:21:49Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1523150807065694208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523150807065694208",
+        "timestamp": "2022-05-08T04:00:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1523332080128233472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523332080128233472",
+        "timestamp": "2022-05-08T16:00:44Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1523387629318443008",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523387629318443008",
+        "timestamp": "2022-05-08T19:41:28Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1523529587768692736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523529587768692736",
+        "timestamp": "2022-05-09T05:05:33Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: cnv-gather-must-gather failed"
+    },
+    {
+        "job_id": "1523619155398365184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523619155398365184",
+        "timestamp": "2022-05-09T11:01:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1523697603454177280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523697603454177280",
+        "timestamp": "2022-05-09T16:13:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1523797898200879104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523797898200879104",
+        "timestamp": "2022-05-09T22:51:43Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1523888909329633280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523888909329633280",
+        "timestamp": "2022-05-10T04:53:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1523966547301765120",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1523966547301765120",
+        "timestamp": "2022-05-10T10:01:50Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1524084808534200320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524084808534200320",
+        "timestamp": "2022-05-10T17:51:47Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1524264315018809344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524264315018809344",
+        "timestamp": "2022-05-11T05:45:06Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1524379812498509824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524379812498509824",
+        "timestamp": "2022-05-11T13:24:03Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1524561050001739776",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524561050001739776",
+        "timestamp": "2022-05-12T01:24:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1524597004557094912",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524597004557094912",
+        "timestamp": "2022-05-12T03:47:05Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1524685681912188928",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524685681912188928",
+        "timestamp": "2022-05-12T09:39:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1524759157792575488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524759157792575488",
+        "timestamp": "2022-05-12T14:31:25Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1524940461481922560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1524940461481922560",
+        "timestamp": "2022-05-13T02:31:52Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1525121661785870336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525121661785870336",
+        "timestamp": "2022-05-13T14:31:54Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1525158748346126336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525158748346126336",
+        "timestamp": "2022-05-13T16:59:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1525319274799828992",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525319274799828992",
+        "timestamp": "2022-05-14T03:37:08Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1525443301212164096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525443301212164096",
+        "timestamp": "2022-05-14T11:49:58Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1525502783845830656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525502783845830656",
+        "timestamp": "2022-05-14T15:46:20Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1525561284169306112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525561284169306112",
+        "timestamp": "2022-05-14T19:38:46Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1525742470086791168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525742470086791168",
+        "timestamp": "2022-05-15T07:38:46Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1525923669929365504",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1525923669929365504",
+        "timestamp": "2022-05-15T19:38:47Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1526104862893281280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526104862893281280",
+        "timestamp": "2022-05-16T07:38:47Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1526286072919625728",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526286072919625728",
+        "timestamp": "2022-05-16T19:38:51Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1526443615734206464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526443615734206464",
+        "timestamp": "2022-05-17T06:04:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1526561564432273408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526561564432273408",
+        "timestamp": "2022-05-17T13:53:33Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1526641080454352896",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526641080454352896",
+        "timestamp": "2022-05-17T19:09:30Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1526731265422659584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526731265422659584",
+        "timestamp": "2022-05-18T01:07:53Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1526797967577583616",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526797967577583616",
+        "timestamp": "2022-05-18T05:32:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1526882920831127552",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526882920831127552",
+        "timestamp": "2022-05-18T11:10:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1526976487733858304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1526976487733858304",
+        "timestamp": "2022-05-18T17:22:18Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1527157823060840448",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1527157823060840448",
+        "timestamp": "2022-05-19T05:22:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1527339023163461632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1527339023163461632",
+        "timestamp": "2022-05-19T17:22:54Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1527520368003125248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1527520368003125248",
+        "timestamp": "2022-05-20T05:23:30Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
+        "job_id": "1527676891660554240",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1527676891660554240",
+        "timestamp": "2022-05-20T15:45:28Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1527766621689483264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1527766621689483264",
+        "timestamp": "2022-05-20T21:42:01Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1527947939706572800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1527947939706572800",
+        "timestamp": "2022-05-21T09:42:31Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1528129140471894016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528129140471894016",
+        "timestamp": "2022-05-21T21:42:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1528310331598704640",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528310331598704640",
+        "timestamp": "2022-05-22T09:42:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI]: failed to get CLI image"
+    },
+    {
+        "job_id": "1528491541025263616",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528491541025263616",
+        "timestamp": "2022-05-22T21:42:35Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1528672975987937280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528672975987937280",
+        "timestamp": "2022-05-23T09:43:33Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1528751705355718656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528751705355718656",
+        "timestamp": "2022-05-23T14:56:22Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1528851304204472320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528851304204472320",
+        "timestamp": "2022-05-23T21:32:10Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1528985216113184768",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1528985216113184768",
+        "timestamp": "2022-05-24T06:24:16Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1529139077897523200",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529139077897523200",
+        "timestamp": "2022-05-24T16:35:39Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1529202418892410880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529202418892410880",
+        "timestamp": "2022-05-24T20:47:21Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1529373248867799040",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529373248867799040",
+        "timestamp": "2022-05-25T08:06:11Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1529441130897215488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529441130897215488",
+        "timestamp": "2022-05-25T12:35:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1529546591826874368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529546591826874368",
+        "timestamp": "2022-05-25T19:34:59Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1529636816922087424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529636816922087424",
+        "timestamp": "2022-05-26T01:33:31Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1529818224730836992",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529818224730836992",
+        "timestamp": "2022-05-26T13:34:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1529999425311608832",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1529999425311608832",
+        "timestamp": "2022-05-27T01:34:23Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1530180653453152256",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1530180653453152256",
+        "timestamp": "2022-05-27T13:34:31Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1530362030094028800",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1530362030094028800",
+        "timestamp": "2022-05-28T01:35:15Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1530543341765136384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1530543341765136384",
+        "timestamp": "2022-05-28T13:35:43Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1530724541293137920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1530724541293137920",
+        "timestamp": "2022-05-29T01:35:44Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1530905733485301760",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1530905733485301760",
+        "timestamp": "2022-05-29T13:35:44Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1531086933550174208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531086933550174208",
+        "timestamp": "2022-05-30T01:35:45Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1531268125654257664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531268125654257664",
+        "timestamp": "2022-05-30T13:35:45Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1531449326268583936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531449326268583936",
+        "timestamp": "2022-05-31T01:35:46Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1531630527591747584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531630527591747584",
+        "timestamp": "2022-05-31T13:35:48Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1531666912914706432",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531666912914706432",
+        "timestamp": "2022-05-31T16:00:23Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: cnv-gather-must-gather failed"
+    },
+    {
+        "job_id": "1531848299613523968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531848299613523968",
+        "timestamp": "2022-06-01T04:01:09Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1531933452788568064",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1531933452788568064",
+        "timestamp": "2022-06-01T09:39:24Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1532093593253056512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532093593253056512",
+        "timestamp": "2022-06-01T20:15:51Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1532274805611433984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532274805611433984",
+        "timestamp": "2022-06-02T08:15:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1532346094707544064",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532346094707544064",
+        "timestamp": "2022-06-02T12:59:11Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1532457735839289344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532457735839289344",
+        "timestamp": "2022-06-02T20:22:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1532638939565789184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532638939565789184",
+        "timestamp": "2022-06-03T08:22:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1532698483801198592",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532698483801198592",
+        "timestamp": "2022-06-03T12:19:28Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1532811021461229568",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532811021461229568",
+        "timestamp": "2022-06-03T19:46:39Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1532902331157319680",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532902331157319680",
+        "timestamp": "2022-06-04T01:49:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1532975515390971904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1532975515390971904",
+        "timestamp": "2022-06-04T06:40:18Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1533039838603776000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533039838603776000",
+        "timestamp": "2022-06-04T10:55:54Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1533147692757159936",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533147692757159936",
+        "timestamp": "2022-06-04T18:04:27Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1533248806500438016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533248806500438016",
+        "timestamp": "2022-06-05T00:46:15Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1533354539313270784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533354539313270784",
+        "timestamp": "2022-06-05T07:46:24Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1533535768897654784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533535768897654784",
+        "timestamp": "2022-06-05T19:46:33Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1533570525698199552",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533570525698199552",
+        "timestamp": "2022-06-05T22:04:37Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1533646466877231104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533646466877231104",
+        "timestamp": "2022-06-06T03:06:25Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1533792392384090112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533792392384090112",
+        "timestamp": "2022-06-06T12:46:16Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1533906945759514624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1533906945759514624",
+        "timestamp": "2022-06-06T20:21:29Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1534063624312590336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534063624312590336",
+        "timestamp": "2022-06-07T06:44:03Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1534202262610513920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534202262610513920",
+        "timestamp": "2022-06-07T15:54:57Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1534280395925753856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534280395925753856",
+        "timestamp": "2022-06-07T21:05:25Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1534461674990342144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534461674990342144",
+        "timestamp": "2022-06-08T09:05:46Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
+        "job_id": "1534494039624126464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534494039624126464",
+        "timestamp": "2022-06-08T11:14:22Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1534639039896883200",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534639039896883200",
+        "timestamp": "2022-06-08T20:50:33Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1534752460415963136",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534752460415963136",
+        "timestamp": "2022-06-09T04:21:15Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1534823210657255424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534823210657255424",
+        "timestamp": "2022-06-09T09:02:22Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1534915249734422528",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534915249734422528",
+        "timestamp": "2022-06-09T15:08:06Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1534994547644305408",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1534994547644305408",
+        "timestamp": "2022-06-09T20:23:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1535067967182606336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535067967182606336",
+        "timestamp": "2022-06-10T01:14:49Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1535172631144173568",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535172631144173568",
+        "timestamp": "2022-06-10T08:10:51Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1535245785745068032",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535245785745068032",
+        "timestamp": "2022-06-10T13:01:33Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG] cnv-gather-extra failed"
+    },
+    {
+        "job_id": "1535339739874332672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535339739874332672",
+        "timestamp": "2022-06-10T19:14:50Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1535406691883945984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535406691883945984",
+        "timestamp": "2022-06-10T23:40:55Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1535497734012801024",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535497734012801024",
+        "timestamp": "2022-06-11T05:42:42Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1535593880894836736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535593880894836736",
+        "timestamp": "2022-06-11T12:04:45Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1535775103629922304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535775103629922304",
+        "timestamp": "2022-06-12T00:04:52Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1535956307717132288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1535956307717132288",
+        "timestamp": "2022-06-12T12:04:54Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1536137747381620736",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536137747381620736",
+        "timestamp": "2022-06-13T00:05:53Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1536227751114051584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536227751114051584",
+        "timestamp": "2022-06-13T06:03:32Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1536311455060594688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536311455060594688",
+        "timestamp": "2022-06-13T11:36:07Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1536398659074134016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536398659074134016",
+        "timestamp": "2022-06-13T17:22:39Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1536468745327742976",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536468745327742976",
+        "timestamp": "2022-06-13T22:01:02Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1536550031052509184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536550031052509184",
+        "timestamp": "2022-06-14T03:24:09Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1536697882080448512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536697882080448512",
+        "timestamp": "2022-06-14T13:11:40Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1536761963143499776",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536761963143499776",
+        "timestamp": "2022-06-14T17:26:11Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1536871823994523648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1536871823994523648",
+        "timestamp": "2022-06-15T00:42:50Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1537010340980592640",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537010340980592640",
+        "timestamp": "2022-06-15T09:53:12Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1537107415848194048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537107415848194048",
+        "timestamp": "2022-06-15T16:18:56Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1537200955206930432",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537200955206930432",
+        "timestamp": "2022-06-15T22:30:40Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1537382142663725056",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537382142663725056",
+        "timestamp": "2022-06-16T10:30:40Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1537559700353060864",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537559700353060864",
+        "timestamp": "2022-06-16T22:16:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1537741035550019584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537741035550019584",
+        "timestamp": "2022-06-17T10:16:47Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1537824699256410112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537824699256410112",
+        "timestamp": "2022-06-17T15:49:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1537888750393102336",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1537888750393102336",
+        "timestamp": "2022-06-17T20:03:45Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1538069955159789568",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538069955159789568",
+        "timestamp": "2022-06-18T08:03:47Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1538074252794662912",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538074252794662912",
+        "timestamp": "2022-06-18T08:20:52Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1538255453476098048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538255453476098048",
+        "timestamp": "2022-06-18T20:20:54Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1538436649426358272",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538436649426358272",
+        "timestamp": "2022-06-19T08:20:54Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure"
+    },
+    {
+        "job_id": "1538617845464698880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538617845464698880",
+        "timestamp": "2022-06-19T20:20:55Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1538799041968607232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538799041968607232",
+        "timestamp": "2022-06-20T08:20:55Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1538807994693718016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538807994693718016",
+        "timestamp": "2022-06-20T08:56:30Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1538989299339366400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1538989299339366400",
+        "timestamp": "2022-06-20T20:56:56Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
+        "job_id": "1539006452692160512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539006452692160512",
+        "timestamp": "2022-06-20T22:05:06Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1539098424979230720",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539098424979230720",
+        "timestamp": "2022-06-21T04:10:32Z",
+        "result": "failure",
+        "reason": "[CNV] KubeVirt Tests failure"
+    },
+    {
+        "job_id": "1539184278196195328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539184278196195328",
+        "timestamp": "2022-06-21T09:51:42Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1539265495755132928",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539265495755132928",
+        "timestamp": "2022-06-21T15:14:26Z",
+        "result": "failure",
+        "reason": "[CNV] VM Uptime test failure"
+    },
+    {
+        "job_id": "1539352489977974784",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539352489977974784",
+        "timestamp": "2022-06-21T21:00:07Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539426611412078592",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539426611412078592",
+        "timestamp": "2022-06-22T01:54:39Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539491993942495232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539491993942495232",
+        "timestamp": "2022-06-22T06:14:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539673420122296320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539673420122296320",
+        "timestamp": "2022-06-22T18:15:23Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539687500090445824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539687500090445824",
+        "timestamp": "2022-06-22T19:11:17Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539758894635552768",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539758894635552768",
+        "timestamp": "2022-06-22T23:55:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539832158737141760",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539832158737141760",
+        "timestamp": "2022-06-23T04:46:09Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539904130561085440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539904130561085440",
+        "timestamp": "2022-06-23T09:32:03Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1539997139139039232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1539997139139039232",
+        "timestamp": "2022-06-23T15:41:43Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540178357549797376",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540178357549797376",
+        "timestamp": "2022-06-24T03:41:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540189114794512384",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540189114794512384",
+        "timestamp": "2022-06-24T04:24:33Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540278564031565824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540278564031565824",
+        "timestamp": "2022-06-24T10:20:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540369414979850240",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540369414979850240",
+        "timestamp": "2022-06-24T16:21:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540518138217500672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540518138217500672",
+        "timestamp": "2022-06-25T02:11:58Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1540609335502049280",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540609335502049280",
+        "timestamp": "2022-06-25T08:14:22Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540790648100098048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540790648100098048",
+        "timestamp": "2022-06-25T20:14:51Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1540971850371174400",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1540971850371174400",
+        "timestamp": "2022-06-26T08:14:53Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541153291478503424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541153291478503424",
+        "timestamp": "2022-06-26T20:15:52Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1541334487567175680",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541334487567175680",
+        "timestamp": "2022-06-27T08:15:53Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541398191256113152",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541398191256113152",
+        "timestamp": "2022-06-27T12:29:00Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541476976441692160",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541476976441692160",
+        "timestamp": "2022-06-27T17:42:04Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541578367218749440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541578367218749440",
+        "timestamp": "2022-06-28T00:24:57Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541643986144333824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541643986144333824",
+        "timestamp": "2022-06-28T04:45:42Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541743690672771072",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541743690672771072",
+        "timestamp": "2022-06-28T11:21:48Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
+        "job_id": "1541815060941246464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541815060941246464",
+        "timestamp": "2022-06-28T16:05:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1541996345408098304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1541996345408098304",
+        "timestamp": "2022-06-29T04:05:52Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1542177545984675840",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1542177545984675840",
+        "timestamp": "2022-06-29T16:05:53Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1542312374533361664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1542312374533361664",
+        "timestamp": "2022-06-30T01:01:39Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1542493628268548096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1542493628268548096",
+        "timestamp": "2022-06-30T13:01:53Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
+        "job_id": "1542675052942594048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1542675052942594048",
+        "timestamp": "2022-07-01T01:02:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1542766129091448832",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1542766129091448832",
+        "timestamp": "2022-07-01T07:04:42Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1542947470521143296",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1542947470521143296",
+        "timestamp": "2022-07-01T19:05:18Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1543128673681412096",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1543128673681412096",
+        "timestamp": "2022-07-02T07:05:20Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1543310113714999296",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1543310113714999296",
+        "timestamp": "2022-07-02T19:06:19Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1543491309489098752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1543491309489098752",
+        "timestamp": "2022-07-03T07:06:19Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1543672505716183040",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1543672505716183040",
+        "timestamp": "2022-07-03T19:06:20Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1543853705105772544",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1543853705105772544",
+        "timestamp": "2022-07-04T07:06:21Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1543991732016779264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1543991732016779264",
+        "timestamp": "2022-07-04T16:14:49Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1544173151997399040",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544173151997399040",
+        "timestamp": "2022-07-05T04:15:43Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1544240308500303872",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544240308500303872",
+        "timestamp": "2022-07-05T08:42:34Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1544354443141582848",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544354443141582848",
+        "timestamp": "2022-07-05T16:16:05Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1544457295872659456",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544457295872659456",
+        "timestamp": "2022-07-05T23:04:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1544569700132851712",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544569700132851712",
+        "timestamp": "2022-07-06T06:31:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1544698972856127488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544698972856127488",
+        "timestamp": "2022-07-06T15:05:07Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1544880162980499456",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1544880162980499456",
+        "timestamp": "2022-07-07T03:05:07Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545061363934564352",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545061363934564352",
+        "timestamp": "2022-07-07T15:05:09Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545242560778211328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545242560778211328",
+        "timestamp": "2022-07-08T03:05:10Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545423838144106496",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545423838144106496",
+        "timestamp": "2022-07-08T15:05:30Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545475542499725312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545475542499725312",
+        "timestamp": "2022-07-08T18:30:57Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545548422461788160",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545548422461788160",
+        "timestamp": "2022-07-08T23:20:32Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545729842660511744",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545729842660511744",
+        "timestamp": "2022-07-09T11:21:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1545911038153592832",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1545911038153592832",
+        "timestamp": "2022-07-09T23:21:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1546092234200322048",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1546092234200322048",
+        "timestamp": "2022-07-10T11:21:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1546273430691647488",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1546273430691647488",
+        "timestamp": "2022-07-10T23:21:28Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1546405480987889664",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1546405480987889664",
+        "timestamp": "2022-07-11T08:06:08Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1546489885492252672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1546489885492252672",
+        "timestamp": "2022-07-11T13:41:33Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1546671091517231104",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1546671091517231104",
+        "timestamp": "2022-07-12T01:41:38Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1546843953725181952",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1546843953725181952",
+        "timestamp": "2022-07-12T13:08:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1547025231393067008",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547025231393067008",
+        "timestamp": "2022-07-13T01:08:52Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1547077379728347136",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547077379728347136",
+        "timestamp": "2022-07-13T04:36:04Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547208487258296320",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547208487258296320",
+        "timestamp": "2022-07-13T13:16:59Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547389780642238464",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547389780642238464",
+        "timestamp": "2022-07-14T01:17:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547570995777245184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547570995777245184",
+        "timestamp": "2022-07-14T13:17:32Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547752425144717312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547752425144717312",
+        "timestamp": "2022-07-15T01:18:28Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547783140485894144",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547783140485894144",
+        "timestamp": "2022-07-15T03:20:31Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547846901225754624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547846901225754624",
+        "timestamp": "2022-07-15T07:33:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1547944584196132864",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1547944584196132864",
+        "timestamp": "2022-07-15T14:02:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548125815282077696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548125815282077696",
+        "timestamp": "2022-07-16T02:02:11Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548128545799147520",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548128545799147520",
+        "timestamp": "2022-07-16T02:13:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548309974365507584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548309974365507584",
+        "timestamp": "2022-07-16T14:13:58Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548491322019549184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548491322019549184",
+        "timestamp": "2022-07-17T02:14:35Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548672691697881088",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548672691697881088",
+        "timestamp": "2022-07-17T14:15:17Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548853887832690688",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548853887832690688",
+        "timestamp": "2022-07-18T02:15:17Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1548988236888543232",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1548988236888543232",
+        "timestamp": "2022-07-18T11:09:08Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549084962530004992",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549084962530004992",
+        "timestamp": "2022-07-18T17:33:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549178583346319360",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549178583346319360",
+        "timestamp": "2022-07-18T23:45:30Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549252197647126528",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549252197647126528",
+        "timestamp": "2022-07-19T04:38:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549344003558739968",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549344003558739968",
+        "timestamp": "2022-07-19T10:42:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549525333642842112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549525333642842112",
+        "timestamp": "2022-07-19T22:43:22Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549706532877242368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549706532877242368",
+        "timestamp": "2022-07-20T10:43:24Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1549887769059266560",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1549887769059266560",
+        "timestamp": "2022-07-20T22:43:34Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1550069214285402112",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1550069214285402112",
+        "timestamp": "2022-07-21T10:44:34Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1550217903041679360",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1550217903041679360",
+        "timestamp": "2022-07-21T20:35:17Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1550383197966045184",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1550383197966045184",
+        "timestamp": "2022-07-22T07:32:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1550483601341026304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1550483601341026304",
+        "timestamp": "2022-07-22T14:11:11Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1550665042729373696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1550665042729373696",
+        "timestamp": "2022-07-23T02:12:10Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1550846241938608128",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1550846241938608128",
+        "timestamp": "2022-07-23T14:12:11Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551027433698758656",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551027433698758656",
+        "timestamp": "2022-07-24T02:12:11Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551208641116246016",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551208641116246016",
+        "timestamp": "2022-07-24T14:12:14Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551224305990242304",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551224305990242304",
+        "timestamp": "2022-07-24T15:14:29Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551405680517189632",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551405680517189632",
+        "timestamp": "2022-07-25T03:15:12Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551586882763100160",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551586882763100160",
+        "timestamp": "2022-07-25T15:15:14Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551768325338435584",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551768325338435584",
+        "timestamp": "2022-07-26T03:16:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551783733411975168",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551783733411975168",
+        "timestamp": "2022-07-26T04:17:27Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551880520097337344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551880520097337344",
+        "timestamp": "2022-07-26T10:42:02Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1551958313225162752",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1551958313225162752",
+        "timestamp": "2022-07-26T15:51:10Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552139656500350976",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552139656500350976",
+        "timestamp": "2022-07-27T03:51:46Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552320860411400192",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552320860411400192",
+        "timestamp": "2022-07-27T15:51:47Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552377390347325440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552377390347325440",
+        "timestamp": "2022-07-27T19:36:21Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552573464206905344",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552573464206905344",
+        "timestamp": "2022-07-28T07:36:57Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552589900753145856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552589900753145856",
+        "timestamp": "2022-07-28T09:40:52Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552691480215162880",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552691480215162880",
+        "timestamp": "2022-07-28T16:24:29Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1552872854201044993",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1552872854201044993",
+        "timestamp": "2022-07-29T04:25:13Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1553007727712669696",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553007727712669696",
+        "timestamp": "2022-07-29T13:21:06Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1553078408794083328",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553078408794083328",
+        "timestamp": "2022-07-29T18:02:00Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1553259602093543424",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553259602093543424",
+        "timestamp": "2022-07-30T06:02:01Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1553440802741424128",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553440802741424128",
+        "timestamp": "2022-07-30T18:02:03Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1553622245320953856",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553622245320953856",
+        "timestamp": "2022-07-31T06:03:02Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
+        "job_id": "1553803442235904000",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553803442235904000",
+        "timestamp": "2022-07-31T18:03:03Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1553984637842231296",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1553984637842231296",
+        "timestamp": "2022-08-01T06:03:03Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554165835285663744",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554165835285663744",
+        "timestamp": "2022-08-01T18:03:04Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1554284944426012672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554284944426012672",
+        "timestamp": "2022-08-02T01:56:21Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554466245145792512",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554466245145792512",
+        "timestamp": "2022-08-02T13:56:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554647694775947264",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554647694775947264",
+        "timestamp": "2022-08-03T01:57:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554653863343034368",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554653863343034368",
+        "timestamp": "2022-08-03T02:22:19Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554805819705397248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554805819705397248",
+        "timestamp": "2022-08-03T12:08:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554900852387352576",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554900852387352576",
+        "timestamp": "2022-08-03T18:43:45Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1554967141210394624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1554967141210394624",
+        "timestamp": "2022-08-03T23:07:10Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1555105203647156224",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1555105203647156224",
+        "timestamp": "2022-08-04T08:15:47Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1555286643139678208",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1555286643139678208",
+        "timestamp": "2022-08-04T20:16:46Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1555467956664668160",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1555467956664668160",
+        "timestamp": "2022-08-05T08:17:14Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1555649291513499648",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1555649291513499648",
+        "timestamp": "2022-08-05T20:17:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1555830487199518720",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1555830487199518720",
+        "timestamp": "2022-08-06T08:17:48Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1556011683707621376",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1556011683707621376",
+        "timestamp": "2022-08-06T20:17:49Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1556192881083944960",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1556192881083944960",
+        "timestamp": "2022-08-07T08:17:49Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1556374074643451904",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1556374074643451904",
+        "timestamp": "2022-08-07T20:17:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1556555272858636288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1556555272858636288",
+        "timestamp": "2022-08-08T08:17:50Z",
+        "result": "failure",
+        "reason": "Undetermined"
+    },
+    {
+        "job_id": "1556736469102497792",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1556736469102497792",
+        "timestamp": "2022-08-08T20:17:51Z",
+        "result": "success",
+        "reason": ""
+    }
+]
