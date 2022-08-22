@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1561806127107149824",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1561806127107149824",
+        "timestamp": "2022-08-22T20:02:51Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
         "job_id": "1561743291291013120",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1561743291291013120",
         "timestamp": "2022-08-22T15:53:11Z",
