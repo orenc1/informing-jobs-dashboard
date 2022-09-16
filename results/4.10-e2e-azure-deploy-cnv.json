@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1570808348285079552",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1570808348285079552",
+        "timestamp": "2022-09-16T16:14:28Z",
+        "result": "failure",
+        "reason": "[Azure] Bootstrap failure - failed to fetch Cluster"
+    },
+    {
         "job_id": "1570457834557018112",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-deploy-cnv/1570457834557018112",
         "timestamp": "2022-09-15T17:01:39Z",
