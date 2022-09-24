@@ -1,5 +1,19 @@
 [
     {
+        "job_id": "1573422898008297472",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-upgrade-cnv/1573422898008297472",
+        "timestamp": "2022-09-23T21:23:45Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: gather-azure-cli failed"
+    },
+    {
+        "job_id": "1573515533523881984",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-upgrade-cnv/1573515533523881984",
+        "timestamp": "2022-09-24T03:31:52Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] Bootstrap destruction error (Unable to locate Storage Account)"
+    },
+    {
         "job_id": "1573326513804152832",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-upgrade-cnv/1573326513804152832",
         "timestamp": "2022-09-23T15:00:44Z",
