@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1588732970426961920",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1588732970426961920",
+        "timestamp": "2022-11-05T03:20:32Z",
+        "result": "failure",
+        "reason": "[OCP-CI-MG]: cnv-gather-must-gather failed"
+    },
+    {
         "job_id": "1588587877543972864",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1588587877543972864",
         "timestamp": "2022-11-04T17:43:53Z",
