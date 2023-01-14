@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1614047583401938944",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-deploy-cnv/1614047583401938944",
+        "timestamp": "2023-01-13T23:51:45Z",
+        "result": "failure",
+        "reason": "[OCP-CI] failed to create/update secret"
+    },
+    {
         "job_id": "1613922897783427072",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-deploy-cnv/1613922897783427072",
         "timestamp": "2023-01-13T15:36:17Z",
