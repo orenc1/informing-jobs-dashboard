@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1617551477004308480",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1617551477004308480",
+        "timestamp": "2023-01-23T15:53:26Z",
+        "result": "failure",
+        "reason": "[CNV] VM boot time test failed"
+    },
+    {
         "job_id": "1616464060927184896",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.11-e2e-azure-upgrade-cnv/1616464060927184896",
         "timestamp": "2023-01-20T15:53:59Z",
