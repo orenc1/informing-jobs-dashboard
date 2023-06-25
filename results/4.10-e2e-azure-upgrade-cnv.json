@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1672958797460541440",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1672958797460541440",
+        "timestamp": "2023-06-25T13:23:54Z",
+        "result": "failure",
+        "reason": "[OCP] failed to initialize the cluster"
+    },
+    {
         "job_id": "1672910797258362880",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1672910797258362880",
         "timestamp": "2023-06-25T10:13:09Z",
