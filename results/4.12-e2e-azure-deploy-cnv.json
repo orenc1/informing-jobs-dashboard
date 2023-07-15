@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1680039390664986624",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-deploy-cnv/1680039390664986624",
+        "timestamp": "2023-07-15T02:19:38Z",
+        "result": "failure",
+        "reason": "[OCP] Bootstrap failure"
+    },
+    {
         "job_id": "1679629216154390528",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-deploy-cnv/1679629216154390528",
         "timestamp": "2023-07-13T23:09:45Z",
