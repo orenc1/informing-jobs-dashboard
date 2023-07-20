@@ -1,5 +1,19 @@
 [
     {
+        "job_id": "1681950194402332672",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1681950194402332672",
+        "timestamp": "2023-07-20T08:52:29Z",
+        "result": "failure",
+        "reason": "[CNV] Previous CSV removal failed"
+    },
+    {
+        "job_id": "1682017397550092288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1682017397550092288",
+        "timestamp": "2023-07-20T13:19:32Z",
+        "result": "failure",
+        "reason": "[CNV] Previous CSV removal failed"
+    },
+    {
         "job_id": "1681901378986840064",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1681901378986840064",
         "timestamp": "2023-07-20T05:38:31Z",
