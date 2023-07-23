@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1683057749358809088",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1683057749358809088",
+        "timestamp": "2023-07-23T10:13:31Z",
+        "result": "failure",
+        "reason": "[CNV] Previous CSV removal failed"
+    },
+    {
         "job_id": "1682453675034808320",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.10-e2e-azure-upgrade-cnv/1682453675034808320",
         "timestamp": "2023-07-21T18:13:09Z",
