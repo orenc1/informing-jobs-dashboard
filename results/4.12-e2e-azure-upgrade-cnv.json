@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1693937270303756288",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-upgrade-cnv/1693937270303756288",
+        "timestamp": "2023-08-22T10:44:48Z",
+        "result": "failure",
+        "reason": "[OCP-Installer] IPI Deprovision error"
+    },
+    {
         "job_id": "1693673252095791104",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-upgrade-cnv/1693673252095791104",
         "timestamp": "2023-08-21T17:15:44Z",
