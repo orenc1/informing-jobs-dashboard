@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1699438905264181248",
+        "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-deploy-cnv/1699438905264181248",
+        "timestamp": "2023-09-06T15:06:22Z",
+        "result": "success",
+        "reason": ""
+    },
+    {
         "job_id": "1699312273119514624",
         "job_url": "https://prow.ci.openshift.org/view/gs/origin-ci-test/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-deploy-cnv/1699312273119514624",
         "timestamp": "2023-09-06T06:43:12Z",
