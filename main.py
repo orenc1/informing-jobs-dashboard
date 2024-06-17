@@ -168,9 +168,10 @@ def main():
     create_dirs_if_not_exists(["results", "web"])
     test_jobs = {}
     load_data(test_jobs)
-    resolve_undetermined(test_jobs)
+    # resolve_undetermined(test_jobs)
     collect_data(test_jobs)
     render_html(test_jobs)
 
 if __name__ == '__main__':
     main()
+
