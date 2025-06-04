@@ -1,5 +1,12 @@
 [
     {
+        "job_id": "1930335202328973312",
+        "job_url": "https://prow.ci.openshift.org/view/gs/test-platform-results/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-deploy-cnv/1930335202328973312",
+        "timestamp": "2025-06-04T18:45:50Z",
+        "result": "failure",
+        "reason": "[CNV] Deployment failure - hco-operator was not deployed"
+    },
+    {
         "job_id": "1929539935656742912",
         "job_url": "https://prow.ci.openshift.org/view/gs/test-platform-results/logs/periodic-ci-openshift-release-master-nightly-4.12-e2e-azure-deploy-cnv/1929539935656742912",
         "timestamp": "2025-06-02T14:05:38Z",
